@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "TSHF18DM",
   "me": {
-    "id": "94716480935@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94716480935:14@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CNXrrr0CEPu+yMQGGAEgACgA",
+    "accountSignatureKey": "dEnJVMqLshQaCwruG6OuJYrP1DfZ1cG4iGjJJgZIPxM=",
+    "accountSignature": "RdDpr2pfM6qfG7V/nEpOOiZEiCitesBd0+G7AwQPrFx08rMWgHDcDqGeN8n3z+yQirasKSwZNwdWlpsO9nFyDg==",
+    "deviceSignature": "9fJS7qNrAKmEK6c+J1CWRou2sBtnqofteDuTBhhuoqPqBLIcJ87M/+gLER0rKIu3i9/G8thcL9RoBGkCGn2DDw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94716480935:14@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXRJyVTKi7IUGgsK7hujriWKz9Q32dXBuIhoySYGSD8T"
+      }
+    }
+  ],
+  "platform": "android"
 }
