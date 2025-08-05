@@ -49,8 +49,8 @@
   "registrationId": 210,
   "advSecretKey": "t7TWALj8agZZVQ26BdKkzgm/iuHFK6cnBbb14dmQ9r8=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -79,5 +79,10 @@
       }
     }
   ],
-  "platform": "smba"
+  "platform": "smba",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CBIICA=="
+  },
+  "lastAccountSyncTimestamp": 1754393124
 }
