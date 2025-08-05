@@ -48,10 +48,19 @@
   },
   "registrationId": 110,
   "advSecretKey": "e4PtSoID1KWnrgP0TGCg3Ax80pZyPgxscnsW2SkS9as=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94775819456@s.whatsapp.net",
+        "fromMe": true,
+        "id": "69872DE00B95489D149E5D0A484164E7"
+      },
+      "messageTimestamp": 1754396796
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +68,8 @@
   "pairingCode": "AFALSXVT",
   "me": {
     "id": "94775819456:51@s.whatsapp.net",
-    "lid": "42146732191832:51@lid"
+    "lid": "42146732191832:51@lid",
+    "name": "Indika Fernando"
   },
   "account": {
     "details": "CLCj/6oFEMrwx8QGGAogACgA",
