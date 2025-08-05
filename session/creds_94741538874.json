@@ -48,10 +48,35 @@
   },
   "registrationId": 210,
   "advSecretKey": "t7TWALj8agZZVQ26BdKkzgm/iuHFK6cnBbb14dmQ9r8=",
-  "processedHistoryMessages": [],
-  "nextPreKeyId": 31,
-  "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94741538874@s.whatsapp.net",
+        "fromMe": true,
+        "id": "58167A042450314775FE242F434F851A"
+      },
+      "messageTimestamp": 1754393128
+    },
+    {
+      "key": {
+        "remoteJid": "94741538874@s.whatsapp.net",
+        "fromMe": true,
+        "id": "47E29216421C43261B2D70DF6F40E5EE"
+      },
+      "messageTimestamp": 1754393129
+    },
+    {
+      "key": {
+        "remoteJid": "94741538874@s.whatsapp.net",
+        "fromMe": true,
+        "id": "6947A090C0CC9F12F4EFAF797CBA84A4"
+      },
+      "messageTimestamp": 1754393141
+    }
+  ],
+  "nextPreKeyId": 34,
+  "firstUnuploadedPreKeyId": 34,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +84,8 @@
   "pairingCode": "VRXMVZEB",
   "me": {
     "id": "94741538874:20@s.whatsapp.net",
-    "name": "NETHTHRANJANA."
+    "name": "NETHTHRANJANA.",
+    "lid": "223935903879267:20@lid"
   },
   "account": {
     "details": "CJ3iq8QBEIvUx8QGGAEgACgA",
@@ -84,5 +110,7 @@
     "type": "Buffer",
     "data": "CBIICA=="
   },
-  "lastAccountSyncTimestamp": 1754393124
+  "lastAccountSyncTimestamp": 1754393124,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAAJqB"
 }
