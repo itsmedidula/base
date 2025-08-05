@@ -49,8 +49,8 @@
   "registrationId": 129,
   "advSecretKey": "UdNB3QuaAbZHjvOclXwIvqT20N46IQ4srquHGN+hqjw=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "LMTCJSN3",
   "me": {
     "id": "94768058792:64@s.whatsapp.net",
-    "name": "𝐍\n\n\n\n\n\n𝐈\n\n\n\n\n\n𝐏\n\n\n\n\n\n𝐏\n\n\n\n\n\n𝐀\n\n\n\n\n\n"
+    "name": "𝐍\n\n\n\n\n\n𝐈\n\n\n\n\n\n𝐏\n\n\n\n\n\n𝐏\n\n\n\n\n\n𝐀\n\n\n\n\n\n",
+    "lid": "216397682573436:64@lid"
   },
   "account": {
     "details": "CJnpoJcCENr8x8QGGAMgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CBIIBQ=="
   },
-  "lastAccountSyncTimestamp": 1754398311
+  "lastAccountSyncTimestamp": 1754398311,
+  "lastPropHash": "2V77qU",
+  "myAppStateKeyId": "AAAAAOmL"
 }
