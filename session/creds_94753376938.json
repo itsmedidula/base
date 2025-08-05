@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "PK8XDLEN",
   "me": {
-    "id": "94753376938@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94753376938:1@s.whatsapp.net",
+    "name": "ruka the world"
+  },
+  "account": {
+    "details": "CKPvqs0CENOax8QGGAEgACgA",
+    "accountSignatureKey": "d0tUaWy6+Xo6L8tlhy8EFZ/c3FwdywPghxRuiMaNpA0=",
+    "accountSignature": "LVeliRpbAPLbgSuwNaezsmN0N76W1PZoUnzzOABQu/oNauY0MWRLjSNFZWGLfnV4LTGMGqa0jo1A+/0mPjFACQ==",
+    "deviceSignature": "0jQp/YgGv3OUNRXkmR4Z/1AAV20bBABZ9b/Dz3jeGEV4HH+Gg04gXqoyKbIlyJL5fMN2F5nT6xh/qZXeGa3phA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94753376938:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXdLVGlsuvl6Oi/LZYcvBBWf3NxcHcsD4IcUbojGjaQN"
+      }
+    }
+  ],
+  "platform": "smba"
 }
