@@ -49,8 +49,8 @@
   "registrationId": 90,
   "advSecretKey": "CNMDRLDLprTWHv0NfbsKEwwKFfMx7k8tzZw1+DJ/bg0=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "KCAGR52V",
   "me": {
     "id": "94725245389:7@s.whatsapp.net",
-    "name": "SL TECH ZONE OFC"
+    "name": "SL TECH ZONE OFC",
+    "lid": "6747930517725:7@lid"
   },
   "account": {
     "details": "CNjo6m4Qg7LIxAYYASAAKAA=",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CA0IEg=="
   },
-  "lastAccountSyncTimestamp": 1754405136
+  "lastAccountSyncTimestamp": 1754405136,
+  "lastPropHash": "2V77qU",
+  "myAppStateKeyId": "AAAAAEUB"
 }
