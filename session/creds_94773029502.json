@@ -49,8 +49,8 @@
   "registrationId": 42,
   "advSecretKey": "iORQCWJhw2Uao57CvaBITq+FkZhIvpqBDDaCR9qIXt0=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "NKFRJTJ1",
   "me": {
     "id": "94773029502:56@s.whatsapp.net",
-    "name": "Sl movies"
+    "name": "Sl movies",
+    "lid": "15733085995117:56@lid"
   },
   "account": {
     "details": "CPec3O4EELmyycQGGAEgACgA",
@@ -84,5 +85,6 @@
     "type": "Buffer",
     "data": "CBIIDQ=="
   },
-  "lastAccountSyncTimestamp": 1754421573
+  "lastAccountSyncTimestamp": 1754421573,
+  "lastPropHash": "3R9Z39"
 }
