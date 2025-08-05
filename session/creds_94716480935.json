@@ -51,7 +51,7 @@
   "processedHistoryMessages": [],
   "nextPreKeyId": 32,
   "firstUnuploadedPreKeyId": 32,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +59,8 @@
   "pairingCode": "TSHF18DM",
   "me": {
     "id": "94716480935:14@s.whatsapp.net",
-    "lid": "225803728101380:14@lid"
+    "lid": "225803728101380:14@lid",
+    "name": "Nayani thusharika"
   },
   "account": {
     "details": "CNXrrr0CEPu+yMQGGAEgACgA",
