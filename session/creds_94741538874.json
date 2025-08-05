@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "VRXMVZEB",
   "me": {
-    "id": "94741538874@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94741538874:20@s.whatsapp.net",
+    "name": "NETHTHRANJANA."
+  },
+  "account": {
+    "details": "CJ3iq8QBEIvUx8QGGAEgACgA",
+    "accountSignatureKey": "ziBQQwbkQLI8J/q2kEb0/8XD0oX4SW0AtF2tQm+u1To=",
+    "accountSignature": "QrwmSayJ/IBmZnHdNDaO3WR4joUv6pJBRS7cqG3IW3F4SthDM9YED2V+GimuuTYm1YOgxpdaY5GDn6t2C2RqDA==",
+    "deviceSignature": "8wRUvVRkbZlEfhNgnPWDGd8Spn8JbEv25ACy6KNMLu+06GGn9SWO03uBnoLvYeuuU4DhlCauMQgkT5e3LrNnjQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94741538874:20@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bc4gUEMG5ECyPCf6tpBG9P/Fw9KF+EltALRdrUJvrtU6"
+      }
+    }
+  ],
+  "platform": "smba"
 }
