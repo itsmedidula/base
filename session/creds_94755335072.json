@@ -49,8 +49,8 @@
   "registrationId": 147,
   "advSecretKey": "KgIBkO7+u/WaE6emm7V89oz3kEa8E3M5sm1GYZcuG14=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 32,
+  "firstUnuploadedPreKeyId": 32,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "QKCLYQ3S",
   "me": {
     "id": "94755335072:63@s.whatsapp.net",
-    "name": "𝘿\n\n𝙀\n\n𝙑\n\n\n𝙏\n\n𝙃\n\n𝙀\n\n𝙀\n\n𝙆\n\n𝙎\n\n𝙃\n\n𝘼\n\n𝙉\n\n𝘼"
+    "name": "𝘿\n\n𝙀\n\n𝙑\n\n\n𝙏\n\n𝙃\n\n𝙀\n\n𝙀\n\n𝙆\n\n𝙎\n\n𝙃\n\n𝘼\n\n𝙉\n\n𝘼",
+    "lid": "174002513379475:63@lid"
   },
   "account": {
     "details": "COOBo/oGEPOtx8QGGAEgACgA",
@@ -84,5 +85,6 @@
     "type": "Buffer",
     "data": "CAIIBQ=="
   },
-  "lastAccountSyncTimestamp": 1754388223
+  "lastAccountSyncTimestamp": 1754388223,
+  "lastPropHash": "PWk5B"
 }
