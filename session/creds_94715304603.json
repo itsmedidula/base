@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "L3F49P3X",
   "me": {
-    "id": "94715304603@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94715304603:4@s.whatsapp.net"
+  },
+  "account": {
+    "details": "COP/53YQ4ZLHxAYYASAAKAA=",
+    "accountSignatureKey": "9A8EFSinz8Lz9Lq+x7NJfcMCaEDHSk2CZm3qTHHQkgA=",
+    "accountSignature": "IvKyTTqr5S427ScH3nse6lGRIJSqI7d2E8mOn6JDCjyk1bz4Kd7WJsFD7sexQ+zBkHExMZdXutI1LQyGkNE7Cg==",
+    "deviceSignature": "LNInU+WG+E1tx++D02yfv4iaHIejexc93GWuyzWdrVMME9fpI1M+G5zwyD536m/+xBZNxLi+5PAiBf7+bOimCA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94715304603:4@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BfQPBBUop8/C8/S6vsezSX3DAmhAx0pNgmZt6kxx0JIA"
+      }
+    }
+  ],
+  "platform": "android"
 }
