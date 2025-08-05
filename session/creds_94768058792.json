@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "LMTCJSN3",
   "me": {
-    "id": "94768058792@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94768058792:64@s.whatsapp.net",
+    "name": "𝐍\n\n\n\n\n\n𝐈\n\n\n\n\n\n𝐏\n\n\n\n\n\n𝐏\n\n\n\n\n\n𝐀\n\n\n\n\n\n"
+  },
+  "account": {
+    "details": "CJnpoJcCENr8x8QGGAMgACgA",
+    "accountSignatureKey": "szDb/GwRW+wPgwhxIddbCeVLIJPsbXznTxPBuOziUX0=",
+    "accountSignature": "x0Iolk7k2VgwCAf31TYWsjerNzOUCp/xUVLWMmU58rzjuZPuOlAVXPoNFyquIM75lBjq8YrBOuViCiLFoMP7BQ==",
+    "deviceSignature": "pfWeD7bIjK4y6E8ZII5HaXZWbVX7hzdilzxTzcHAykNbGPzHrwf2yCbwk9QRHxIbOgcYnlNg2ltlDhhbdeSMBg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94768058792:64@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BbMw2/xsEVvsD4MIcSHXWwnlSyCT7G18508Twbjs4lF9"
+      }
+    }
+  ],
+  "platform": "smba"
 }
