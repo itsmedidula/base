@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "G79TM5M5",
   "me": {
-    "id": "94743868117@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94743868117:26@s.whatsapp.net",
+    "name": "ZSHEN"
+  },
+  "account": {
+    "details": "CPCymJkCEPKpx8QGGAIgACgA",
+    "accountSignatureKey": "YN+sli/lBaCDptEi6cV9NA48o76GFQeL1lx/E2Fh1go=",
+    "accountSignature": "JgjksBqYpoGY86x7rwhbQUKGTUbHmy/6zzGVkTsI9jfkqRTo58PU70fe16w0rKbDICngP9WlDkN06SbGZjHSDw==",
+    "deviceSignature": "qOXummazK+2TK8dn8ouzUihNcrqXrSCQRQnmSrR/K3jsnjKBb6OZ/41w6DtrWXhFt2brL4cwuQ+TaHv4374phQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94743868117:26@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BWDfrJYv5QWgg6bRIunFfTQOPKO+hhUHi9ZcfxNhYdYK"
+      }
+    }
+  ],
+  "platform": "smba"
 }
