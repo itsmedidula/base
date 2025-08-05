@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "NKFRJTJ1",
   "me": {
-    "id": "94773029502@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94773029502:56@s.whatsapp.net",
+    "name": "Sl movies"
+  },
+  "account": {
+    "details": "CPec3O4EELmyycQGGAEgACgA",
+    "accountSignatureKey": "fkfAcaRYKgOVwckp7YwcKQYfFNKZOO284kmPXeFxbQk=",
+    "accountSignature": "ogI043jyqzC7lcfGgl5RZsQQWsiY/iEixsdK+Sn0jjtakiodMcEua5924LC9cSs7tQZXilbkdhi6FoO2OMI/BA==",
+    "deviceSignature": "sJpD059GOBanZyXbH7ZjYr48AQG/dLJSvOuMRYgZcs5uNfaRcg6PFolbYB7K0jM8tM5xC3/FdenJv66AwnMeBw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94773029502:56@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BX5HwHGkWCoDlcHJKe2MHCkGHxTSmTjtvOJJj13hcW0J"
+      }
+    }
+  ],
+  "platform": "smba"
 }
