@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "6C5FR2FH",
   "me": {
-    "id": "94740958054@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94740958054:4@s.whatsapp.net",
+    "name": "Tharush podda"
+  },
+  "account": {
+    "details": "CPCB54QBEPShx8QGGAEgACgA",
+    "accountSignatureKey": "tPNIiHx3hYyxmqoN23TGVD7wAwm1w9kWqz4kilCzT2k=",
+    "accountSignature": "7K46aw0tnAdUanlYnhDiu167P89haNt9ib5WgxtAgJpCaDagNdYQyjt1Il7Tiv7QM3T/1QHXB8BDLLcGTOlABg==",
+    "deviceSignature": "OH45szKFVc57jkAufTTLbumbf+1sO9qI9Ky7EhAER3Np4dNhYhgv5t7Vzgyo4rpGYwNqJo3IrPxI2ZqXRokXCQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94740958054:4@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BbTzSIh8d4WMsZqqDdt0xlQ+8AMJtcPZFqs+JIpQs09p"
+      }
+    }
+  ],
+  "platform": "smba"
 }
