@@ -59,7 +59,8 @@
   "pairingCode": "EF5VC9F5",
   "me": {
     "id": "94766641678:72@s.whatsapp.net",
-    "name": "~\n𝐈'𝐌\n\n𝐂\n𝐘\n𝐁\n𝐄\n𝐑\n\n𝐃\n𝐈\n𝐋\n𝐀\n_______\n\n𝐓𝐇𝐄\n\n𝐍𝐎𝐎𝐁\n\n𝐇𝐀𝐂𝐊𝐄𝐑\n\n___________________"
+    "name": "~\n𝐈'𝐌\n\n𝐂\n𝐘\n𝐁\n𝐄\n𝐑\n\n𝐃\n𝐈\n𝐋\n𝐀\n_______\n\n𝐓𝐇𝐄\n\n𝐍𝐎𝐎𝐁\n\n𝐇𝐀𝐂𝐊𝐄𝐑\n\n___________________",
+    "lid": "162702487994517:72@lid"
   },
   "account": {
     "details": "CJyos4sDEI2ax8QGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAIIEg=="
   },
-  "lastAccountSyncTimestamp": 1754385690
+  "lastAccountSyncTimestamp": 1754385690,
+  "lastPropHash": "3R9Z39",
+  "myAppStateKeyId": "AAAAAAe6"
 }
