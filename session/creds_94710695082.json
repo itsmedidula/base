@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "SFHM2Q79",
   "me": {
-    "id": "94710695082@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94710695082:38@s.whatsapp.net",
+    "name": "Cʏʙᴇʀ Aɴᴜᴡʜ | 𝘾𝙮𝙗𝙚𝙧𝙓 𝘿𝙚𝙫𝙨 𝙏𝙈"
+  },
+  "account": {
+    "details": "COL/0rMBEK7ByMQGGAEgACgA",
+    "accountSignatureKey": "3dQ/fdWN1Ph6HKVLrOYY2qV6s0Vj+BPgYKbCRv7Gmlw=",
+    "accountSignature": "9fJXFQUYP+VOQMZp/EeLYxwlGtAUBL7I7UZpl3AtGUpEqKJC9t1ZzC65Ax66C3cPayxnz28wmSGgnzgW15HdAQ==",
+    "deviceSignature": "Nso3SMjHUbnB0sywmhGWfBBb8NgUvv+QE3iAt8L+ggXkHxi47Ice9wbrcMISzpgRHaruJe0SSPSGKw1XtTBCCw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94710695082:38@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bd3UP33VjdT4ehylS6zmGNqlerNFY/gT4GCmwkb+xppc"
+      }
+    }
+  ],
+  "platform": "smba"
 }
