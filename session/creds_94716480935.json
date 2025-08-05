@@ -49,8 +49,8 @@
   "registrationId": 98,
   "advSecretKey": "DsGKM939/kaAjBw+9Ds9ghABmDRJ4BcVW+U8mI+HAu4=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 31,
-  "firstUnuploadedPreKeyId": 31,
+  "nextPreKeyId": 32,
+  "firstUnuploadedPreKeyId": 32,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "TSHF18DM",
   "me": {
-    "id": "94716480935:14@s.whatsapp.net"
+    "id": "94716480935:14@s.whatsapp.net",
+    "lid": "225803728101380:14@lid"
   },
   "account": {
     "details": "CNXrrr0CEPu+yMQGGAEgACgA",
@@ -83,5 +84,6 @@
     "type": "Buffer",
     "data": "CAUIAg=="
   },
-  "lastAccountSyncTimestamp": 1754406793
+  "lastAccountSyncTimestamp": 1754406793,
+  "lastPropHash": "3R9Z39"
 }
