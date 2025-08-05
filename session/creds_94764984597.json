@@ -56,6 +56,14 @@
         "id": "289D65E394B44B378ABC8AACE2B33EBC"
       },
       "messageTimestamp": 1754400375
+    },
+    {
+      "key": {
+        "remoteJid": "94764984597@s.whatsapp.net",
+        "fromMe": true,
+        "id": "ED744C643A6DCE99FC2A8942BCEB15E1"
+      },
+      "messageTimestamp": 1754400375
     }
   ],
   "nextPreKeyId": 31,
@@ -96,5 +104,5 @@
   },
   "lastAccountSyncTimestamp": 1754400372,
   "lastPropHash": "PWk5B",
-  "myAppStateKeyId": "AAAAAGW/"
+  "myAppStateKeyId": "AAAAAGXA"
 }
