@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Didula MD MINI BOT</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #0a0a0a;
+            font-family: 'Courier New', monospace;
+            color: #00ff00;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            padding: 50px 0;
+            border-bottom: 2px solid #00ff00;
+        }
+
+        .header h1 {
+            font-size: 3em;
+            margin: 0;
+            text-shadow: 0 0 10px #00ff00;
+        }
+
+        .content {
+            margin: 50px 0;
+            text-align: center;
+        }
+
+        .bot-info {
+            background-color: rgba(0, 255, 0, 0.1);
+            padding: 30px;
+            border-radius: 10px;
+            margin: 20px 0;
+            border: 1px solid #00ff00;
+        }
+
+        .connect-button {
+            display: inline-block;
+            padding: 15px 40px;
+            background-color: #00ff00;
+            color: #000;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-top: 30px;
+            transition: all 0.3s ease;
+        }
+
+        .connect-button:hover {
+            background-color: #000;
+            color: #00ff00;
+            border: 2px solid #00ff00;
+            box-shadow: 0 0 20px #00ff00;
+        }
+
+        .matrix-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0.1;
+            z-index: -1;
+            background: repeating-linear-gradient(
+                0deg,
+                rgba(0, 255, 0, 0.2) 0%,
+                rgba(0, 255, 0, 0.2) 50%,
+                transparent 50%,
+                transparent 100%
+            );
+            background-size: 4px 4px;
+            animation: scroll 20s linear infinite;
+        }
+
+        @keyframes scroll {
+            0% { background-position: 0 0; }
+            100% { background-position: 0 100%; }
+        }
+
+        .owner-info {
+            margin-top: 40px;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="matrix-bg"></div>
+    <div class="container">
+        <div class="header">
+            <h1>Didula MD MINI BOT</h1>
+            <p>Your Advanced WhatsApp Bot Solution</p>
+        </div>
+
+        <div class="content">
+            <div class="bot-info">
+                <h2>Bot Information</h2>
+                <p><strong>Bot Name:</strong> Didula MD MINI BOT</p>
+                <p><strong>Owner:</strong> Didula Rashmika</p>
+                <p><strong>Contact:</strong> +94741671668</p>
+            </div>
+
+            <a href="https://didulamdmini-f43a5af30dd4.herokuapp.com/pair" class="connect-button">
+                Connect Your WhatsApp
+            </a>
+
+            <div class="owner-info">
+                <h3>About the Developer</h3>
+                <p>Created with ❤️ by Didula Rashmika</p>
+                <p>Experience the power of automation with our advanced WhatsApp bot</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
