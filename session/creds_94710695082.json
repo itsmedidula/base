@@ -49,8 +49,8 @@
   "registrationId": 157,
   "advSecretKey": "LFnnaM1a4qRbYoc396kitbMVgxozBLlDUoJFBVL/Bjk=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "SFHM2Q79",
   "me": {
     "id": "94710695082:38@s.whatsapp.net",
-    "name": "Cʏʙᴇʀ Aɴᴜᴡʜ | 𝘾𝙮𝙗𝙚𝙧𝙓 𝘿𝙚𝙫𝙨 𝙏𝙈"
+    "name": "Cʏʙᴇʀ Aɴᴜᴡʜ | 𝘾𝙮𝙗𝙚𝙧𝙓 𝘿𝙚𝙫𝙨 𝙏𝙈",
+    "lid": "77447051616386:38@lid"
   },
   "account": {
     "details": "COL/0rMBEK7ByMQGGAEgACgA",
@@ -84,5 +85,6 @@
     "type": "Buffer",
     "data": "CBIIAg=="
   },
-  "lastAccountSyncTimestamp": 1754407100
+  "lastAccountSyncTimestamp": 1754407100,
+  "lastPropHash": "2V77qU"
 }
