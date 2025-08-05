@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "KCAGR52V",
   "me": {
-    "id": "94725245389@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94725245389:7@s.whatsapp.net",
+    "name": "SL TECH ZONE OFC"
+  },
+  "account": {
+    "details": "CNjo6m4Qg7LIxAYYASAAKAA=",
+    "accountSignatureKey": "8YhT/sLMgyx+rCRLj0/PzHjN/HwTKTnmX2+eqzV+u0Q=",
+    "accountSignature": "CMQm0ucFSz5JypxwygXEubLiQnjfYC+4dPvcymSHx5xY65TkIi8FK+YQBxG/qdtXK9Kxuiv8o4YUhmg+0fIwDQ==",
+    "deviceSignature": "pvEs+CIJIamJt++FsTKgFIYQya0ut5XsmZYOkAoMwLfvF+R/8ynkv7x6KgCntXv3lrVkNEcCpWE6XqmfU1TPAQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94725245389:7@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BfGIU/7CzIMsfqwkS49Pz8x4zfx8Eyk55l9vnqs1frtE"
+      }
+    }
+  ],
+  "platform": "smba"
 }
