@@ -49,8 +49,8 @@
   "registrationId": 134,
   "advSecretKey": "zsYwR604tw+wz9P4B4sy07F2uzRwk/EztSZD8B5R/+Q=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "S13Y9NQC",
   "me": {
     "id": "923359191001:11@s.whatsapp.net",
-    "name": "Asim khan"
+    "name": "Asim khan",
+    "lid": "148820985917451:11@lid"
   },
   "account": {
     "details": "COnt4s4EEJy3x8QGGAIgACgA",
@@ -84,5 +85,6 @@
     "type": "Buffer",
     "data": "CA0IEg=="
   },
-  "lastAccountSyncTimestamp": 1754389417
+  "lastAccountSyncTimestamp": 1754389417,
+  "lastPropHash": "3R9Z39"
 }
