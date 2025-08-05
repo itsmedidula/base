@@ -49,8 +49,8 @@
   "registrationId": 71,
   "advSecretKey": "tikoJjGhB1lhfCH7FAdFYYSg6k9XoJy8w61Lqv82oJ0=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "G79TM5M5",
   "me": {
     "id": "94743868117:26@s.whatsapp.net",
-    "name": "ZSHEN"
+    "name": "ZSHEN",
+    "lid": "15221934579753:26@lid"
   },
   "account": {
     "details": "CPCymJkCEPKpx8QGGAIgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CA0IBQ=="
   },
-  "lastAccountSyncTimestamp": 1754387711
+  "lastAccountSyncTimestamp": 1754387711,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAAIWr"
 }
