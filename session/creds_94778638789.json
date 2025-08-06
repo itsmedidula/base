@@ -49,8 +49,8 @@
   "registrationId": 134,
   "advSecretKey": "nQugCoeqxeJZN4iV9vp+7oaqpncrPWtYn1j3jGbM0nY=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "4BYX5JEJ",
   "me": {
     "id": "94778638789:43@s.whatsapp.net",
-    "name": "Shamalka Broz"
+    "name": "Shamalka Broz",
+    "lid": "272386909855797:43@lid"
   },
   "account": {
     "details": "CKzd+84FEP6Jy8QGGAQgACgA",
