@@ -1,0 +1,83 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "4Fpze802krxkgoxXISUxUAKafNH0gHSyjciJMwalLFc="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "L1ZH8LAr44Prlv4uL/AKjp4NC3yGv7H40OFkjJGU62s="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "kAGDHEUT51v86x+VTM4qRBNCnOglBpLdpEfCmvG0PmM="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "uSu8BQDYyPJcrfqiO/4gQS/TIzriEhysgmMmOdygoXY="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "mAHRnHoSc0mgtNZhWQnXB4xLWzzzgkLw7bbFM8xHFHk="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "ZOv3zfoG2wPu3LDvYpTeTIpQdVwZmlJM5SDWwOqklGw="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "uLMDF3E3nopPqtsmbIrL8TaZZGZYlp6RLkcSwugbqUE="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "k0mQXAaiaaQ5DdrMpXC0lE1VuK9xpKZqXlhVMWAP+w4="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "RhMYpQg8WY6P2z1bG1vjDUwgpmtjzM6pyuKAT+/wx4Kj2jxBQj7ewcEzOLeFeFSHMnqIb/zD2u0kySnmvYVYBA=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 119,
+  "advSecretKey": "LlZPQGbSyIsXAg0x1Ilsb2jcU0CLHvtP0N05GWu5kQA=",
+  "processedHistoryMessages": [],
+  "nextPreKeyId": 1,
+  "firstUnuploadedPreKeyId": 1,
+  "accountSyncCounter": 0,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "EM2DSWH3",
+  "me": {
+    "id": "94778473424:64@s.whatsapp.net",
+    "name": "Ashani"
+  },
+  "account": {
+    "details": "COq37IYGEKDjzsQGGCIgACgA",
+    "accountSignatureKey": "fZGLCw5MTrVGd2ITlx+C/Rxo4GKSFM0E20ElIzFDdwI=",
+    "accountSignature": "dvOaQ9X9oQEOkYUaPyFFH2qem+noZLO6Lpf4geAhlvOIsCDWpK5/ulItTA5XyiHWr2M1EHgtqq1nsN7jtM1Ejg==",
+    "deviceSignature": "V3PtTryyV7X8hhVp4msN+LWAI9l7Km0nQNY+BfNFCNTo211AxPVhEJ4Gf0476B5DyvSjSrTlfEERHcO3LvA0CA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94778473424:64@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BX2RiwsOTE61RndiE5cfgv0caOBikhTNBNtBJSMxQ3cC"
+      }
+    }
+  ],
+  "platform": "smbi"
+}
