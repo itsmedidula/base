@@ -51,7 +51,7 @@
   "processedHistoryMessages": [],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +59,8 @@
   "pairingCode": "BDFBCNVA",
   "me": {
     "id": "94726956630:8@s.whatsapp.net",
-    "lid": "219923934630077:8@lid"
+    "lid": "219923934630077:8@lid",
+    "name": "MENUKA NIMNATH"
   },
   "account": {
     "details": "CNzElN0CEMK2zcQGGAEgACgA",
