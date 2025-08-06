@@ -59,7 +59,8 @@
   "pairingCode": "NGEKRH77",
   "me": {
     "id": "94704979846:34@s.whatsapp.net",
-    "name": "S Priyankara"
+    "name": "S Priyankara",
+    "lid": "239848673820773:34@lid"
   },
   "account": {
     "details": "CJKcp4oGEKb2ysQGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAgIEg=="
   },
-  "lastAccountSyncTimestamp": 1754446643
+  "lastAccountSyncTimestamp": 1754446643,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAAJcg"
 }
