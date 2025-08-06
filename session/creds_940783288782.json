@@ -49,8 +49,8 @@
   "registrationId": 76,
   "advSecretKey": "XhViXkaB8Ay4aUO8k2NIzbV5QXu/XFWrlsu2EImKXxE=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "SZVMQW7W",
   "me": {
     "id": "94783288782:25@s.whatsapp.net",
-    "name": "Yethuki Digital Products"
+    "name": "Yethuki Digital Products",
+    "lid": "179989865595001:25@lid"
   },
   "account": {
     "details": "CK2+9G0QuvPLxAYYASAAKAA=",
@@ -84,5 +85,6 @@
     "type": "Buffer",
     "data": "CAgIEg=="
   },
-  "lastAccountSyncTimestamp": 1754462663
+  "lastAccountSyncTimestamp": 1754462663,
+  "lastPropHash": "1K4hH4"
 }
