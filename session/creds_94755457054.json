@@ -51,7 +51,7 @@
   "processedHistoryMessages": [],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +59,8 @@
   "pairingCode": "MY768XWH",
   "me": {
     "id": "94755457054:11@s.whatsapp.net",
-    "lid": "164270234935429:11@lid"
+    "lid": "164270234935429:11@lid",
+    "name": "milan🇱🇰"
   },
   "account": {
     "details": "CNTmtSwQ3/LLxAYYCCAAKAA=",
