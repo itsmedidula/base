@@ -60,7 +60,7 @@
   ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -96,5 +96,5 @@
   },
   "lastAccountSyncTimestamp": 1754484384,
   "lastPropHash": "3R9Z39",
-  "myAppStateKeyId": "AAAAAOOH"
+  "myAppStateKeyId": "AAAAAOOI"
 }
