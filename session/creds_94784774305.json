@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "RMPX3A2A",
   "me": {
-    "id": "94784774305:5@s.whatsapp.net"
+    "id": "94784774305:5@s.whatsapp.net",
+    "lid": "132689373974627:5@lid"
   },
   "account": {
     "details": "CIGurvkBELD7ysQGGAEgACgA",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CAgIDQ=="
   },
-  "lastAccountSyncTimestamp": 1754447294
+  "lastAccountSyncTimestamp": 1754447294,
+  "lastPropHash": "2V77qU",
+  "myAppStateKeyId": "AAAAAD4h"
 }
