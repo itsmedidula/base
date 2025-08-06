@@ -49,8 +49,8 @@
   "registrationId": 102,
   "advSecretKey": "Po+WOceWIOQJyNb4a/FcyCWKwYvw6wXY7HdRbol/yMc=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "BCPZZ37W",
   "me": {
     "id": "923077301113:9@s.whatsapp.net",
-    "name": "Mílěs Mørålěs"
+    "name": "Mílěs Mørålěs",
+    "lid": "59429865173098:9@lid"
   },
   "account": {
     "details": "CNXM8dgDEJ34ysQGGAEgACgA",
