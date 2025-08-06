@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "9RM8DTHB",
   "me": {
-    "id": "94765451939@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94765451939:4@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CLDbxtMLEMmJzMQGGAEgACgA",
+    "accountSignatureKey": "e8gFN3L81WwhHx6LSLfGT04HRegIn7k90hlWpjV5s1k=",
+    "accountSignature": "54Jcc+XTkQBO8QRx8e6vz96xRxXDi9k95QalXE9hsIbW39xl4m1tuh6Lc+zAe/RiX2fvj85FhnirLXWDgmgHCQ==",
+    "deviceSignature": "WewvfBuIbuvza9ekuCqXB+Xg5Jwwn37irlIyuFOEeXIyvkWRsm1XoGxTpJD/AbLPP3K3EjrIefKvP8shYzGgCA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94765451939:4@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXvIBTdy/NVsIR8ei0i3xk9OB0XoCJ+5PdIZVqY1ebNZ"
+      }
+    }
+  ],
+  "platform": "iphone"
 }
