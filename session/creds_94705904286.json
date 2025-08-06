@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "H35V1YPV",
   "me": {
-    "id": "94705904286@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94705904286:37@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CMyFo6YDEI7xysQGGAEgACgA",
+    "accountSignatureKey": "GrHbbAcK5U3IgJsyhKM2ijfQ1Iom4ygOuiORGPvp70g=",
+    "accountSignature": "EfDCHKawgWaGFZbYEvc8GIWDxTRc6yN3J3t0r1vTDBBxXhFcJ3KlPW57Buien7Z18iIjYy5U3e07/k5/2kW8Ag==",
+    "deviceSignature": "2Rj5H8dEyjKIOQuhKEULKmYywHUERp6mG8d5CFag9TbXGahd1G3umhNFixs++kLZpZ9umkntqWzX1s1he8a7Cg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94705904286:37@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BRqx22wHCuVNyICbMoSjNoo30NSKJuMoDrojkRj76e9I"
+      }
+    }
+  ],
+  "platform": "android"
 }
