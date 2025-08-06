@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "VPF1DX2F",
   "me": {
-    "id": "94711436160@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94711436160:4@s.whatsapp.net",
+    "name": "𝔫𝔦𝔭𝔲𝔫 𝔰𝔞𝔫𝔧𝔞ʎ𝖆"
+  },
+  "account": {
+    "details": "CNeyqO0IEKn5ysQGGAIgACgA",
+    "accountSignatureKey": "+Ok98D6dFntukDLEks1+xC0an7/+MeH9U61/+keDbgw=",
+    "accountSignature": "mZ1ugzDoDyKqFeJZ7wbvC7REUtVAG9dPjVhdcB3tI9athRc30zvHVycaQRand4dZbm7BKUXXE0yi3WsGoBNYBQ==",
+    "deviceSignature": "dFki7SeDkpZDXoUBtBGkk2NA2nTJiUoqItXj+yvKURVV4sEHOly/Tp3UY5jh8wU6NMGNOXMoFYm/mHuVeVoNDQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94711436160:4@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BfjpPfA+nRZ7bpAyxJLNfsQtGp+//jHh/VOtf/pHg24M"
+      }
+    }
+  ],
+  "platform": "smbi"
 }
