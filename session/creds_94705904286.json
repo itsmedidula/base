@@ -48,7 +48,16 @@
   },
   "registrationId": 123,
   "advSecretKey": "fSyF4TI8HjxO0dHymRm9TRnuaevywlRwQBic/E/tM+s=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94705904286@s.whatsapp.net",
+        "fromMe": true,
+        "id": "1246075E83E5CF3EF7A032AA6A43BD24"
+      },
+      "messageTimestamp": 1754446010
+    }
+  ],
   "nextPreKeyId": 1,
   "firstUnuploadedPreKeyId": 1,
   "accountSyncCounter": 0,
@@ -84,5 +93,6 @@
     "type": "Buffer",
     "data": "CAgIDQ=="
   },
-  "lastAccountSyncTimestamp": 1754445979
+  "lastAccountSyncTimestamp": 1754445979,
+  "lastPropHash": "1K4hH4"
 }
