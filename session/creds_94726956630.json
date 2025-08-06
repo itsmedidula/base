@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "BDFBCNVA",
   "me": {
-    "id": "94726956630:8@s.whatsapp.net"
+    "id": "94726956630:8@s.whatsapp.net",
+    "lid": "219923934630077:8@lid"
   },
   "account": {
     "details": "CNzElN0CEMK2zcQGGAEgACgA",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CBIIDQ=="
   },
-  "lastAccountSyncTimestamp": 1754487632
+  "lastAccountSyncTimestamp": 1754487632,
+  "lastPropHash": "2V77qU",
+  "myAppStateKeyId": "AAAAAOz7"
 }
