@@ -56,10 +56,18 @@
         "id": "E0D911F975A66B08A85B91AF9FA7A671"
       },
       "messageTimestamp": 1754453289
+    },
+    {
+      "key": {
+        "remoteJid": "917356466085@s.whatsapp.net",
+        "fromMe": true,
+        "id": "275E03848D9EAA53549E334ECB1B2FD9"
+      },
+      "messageTimestamp": 1754453289
     }
   ],
-  "nextPreKeyId": 31,
-  "firstUnuploadedPreKeyId": 31,
+  "nextPreKeyId": 32,
+  "firstUnuploadedPreKeyId": 32,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
