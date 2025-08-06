@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "RMPX3A2A",
   "me": {
-    "id": "94784774305@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94784774305:5@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CIGurvkBELD7ysQGGAEgACgA",
+    "accountSignatureKey": "WQ6JrjlmisU3QQoU/urXfRXnIUQImdBgXs5qeb8g4C8=",
+    "accountSignature": "12RBXkJqaRYm8cq+p9aGWZryKGQtcJ2/kQIIjyJS+8WPQtWyZ+O+OvUNRO9fM1AKWAMdi5TMKNnZNQfkKU2ACQ==",
+    "deviceSignature": "jeUqDZKIw8Ck5Txmi0oH1nEJQ0W80ZKv7c5oMMUcbRnzePeWO+wOJa6CX4VVnPXHrQn8HukW6JCqRTPEnTTSjA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94784774305:5@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BVkOia45ZorFN0EKFP7q130V5yFECJnQYF7Oanm/IOAv"
+      }
+    }
+  ],
+  "platform": "android"
 }
