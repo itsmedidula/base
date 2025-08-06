@@ -49,8 +49,8 @@
   "registrationId": 39,
   "advSecretKey": "mAzcRwF8QUcfUZY4frOrxybowDLw7jM1OkhoTkTgPjE=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "VPF1DX2F",
   "me": {
     "id": "94711436160:4@s.whatsapp.net",
-    "name": "𝔫𝔦𝔭𝔲𝔫 𝔰𝔞𝔫𝔧𝔞ʎ𝖆"
+    "name": "𝔫𝔦𝔭𝔲𝔫 𝔰𝔞𝔫𝔧𝔞ʎ𝖆",
+    "lid": "148928645333163:4@lid"
   },
   "account": {
     "details": "CNeyqO0IEKn5ysQGGAIgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAIIDQ=="
   },
-  "lastAccountSyncTimestamp": 1754447030
+  "lastAccountSyncTimestamp": 1754447030,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAAMjG"
 }
