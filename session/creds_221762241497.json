@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "DF21NYDW",
   "me": {
-    "id": "221762241497@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "221762241497:1@s.whatsapp.net"
+  },
+  "account": {
+    "details": "COrssOoGEN/5ysQGGAEgACgA",
+    "accountSignatureKey": "3aq8KUSMEIEAmbyzpNWGV4koRWWle0F8kOTknlCfsV4=",
+    "accountSignature": "W+WAh+whgGWkMmCciM/LvV6KpHi1j9ZIcZs58Cfi/a6DuAPHij6fyEvKfL119nYnI5htE7K/SljRzbUj5745Bw==",
+    "deviceSignature": "m+Tk5D73K5U3bYG6n4D0svXWfZ93unxAEejrnZcTp1uFTj1CMZ7JTU4KbwhRqhFfrN2obPoTrMBdzdtwqx02Bw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "221762241497:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bd2qvClEjBCBAJm8s6TVhleJKEVlpXtBfJDk5J5Qn7Fe"
+      }
+    }
+  ],
+  "platform": "android"
 }
