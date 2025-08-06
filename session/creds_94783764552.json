@@ -60,7 +60,7 @@
   ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -68,7 +68,8 @@
   "pairingCode": "ZQ5J728G",
   "me": {
     "id": "94783764552:9@s.whatsapp.net",
-    "lid": "158111067275451:9@lid"
+    "lid": "158111067275451:9@lid",
+    "name": "ᴹᴿ. T̷H̷A̷R̷U̷__👻 °"
   },
   "account": {
     "details": "CKGq7a0GEIbqzcQGGAIgACgA",
