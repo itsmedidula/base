@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "MY768XWH",
   "me": {
-    "id": "94755457054:11@s.whatsapp.net"
+    "id": "94755457054:11@s.whatsapp.net",
+    "lid": "164270234935429:11@lid"
   },
   "account": {
     "details": "CNTmtSwQ3/LLxAYYCCAAKAA=",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CAgIEg=="
   },
-  "lastAccountSyncTimestamp": 1754462572
+  "lastAccountSyncTimestamp": 1754462572,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAALoy"
 }
