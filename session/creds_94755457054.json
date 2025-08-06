@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "MY768XWH",
   "me": {
-    "id": "94755457054@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94755457054:11@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CNTmtSwQ3/LLxAYYCCAAKAA=",
+    "accountSignatureKey": "gknSwATNcFIz6HQ5uLxv3WD0S03s7y6zA5Y2NFcVymY=",
+    "accountSignature": "pAHh4l1PFH9UUD1Dx8rCGG6UGC4T4Pzo4p9ptojWqfkMYmN14GIwVx9NSnjsxDgT54EiAyDdlsmQJrAKcKl9Dw==",
+    "deviceSignature": "iXGaus3i7FPlpXA2nm0X1YLIleiAtq8nSVx+PWEDoNybtID0c7dAzSLHPfHz+t1YSNpjbfN8NKPBQnvEUN7Ygg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94755457054:11@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BYJJ0sAEzXBSM+h0Obi8b91g9EtN7O8uswOWNjRXFcpm"
+      }
+    }
+  ],
+  "platform": "android"
 }
