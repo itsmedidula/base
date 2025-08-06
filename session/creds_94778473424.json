@@ -49,8 +49,8 @@
   "registrationId": 119,
   "advSecretKey": "LlZPQGbSyIsXAg0x1Ilsb2jcU0CLHvtP0N05GWu5kQA=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "EM2DSWH3",
   "me": {
     "id": "94778473424:64@s.whatsapp.net",
-    "name": "Ashani"
+    "name": "Ashani",
+    "lid": "173543119675428:64@lid"
   },
   "account": {
     "details": "COq37IYGEKDjzsQGGCIgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAIIBQ=="
   },
-  "lastAccountSyncTimestamp": 1754509741
+  "lastAccountSyncTimestamp": 1754509741,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAAM/E"
 }
