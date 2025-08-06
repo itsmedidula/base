@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "17K1W7RZ",
   "me": {
-    "id": "94783757996@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94783757996:1@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CMuVsZsMEOHezcQGGAEgACgA",
+    "accountSignatureKey": "ny61nsGiLGQP/rmBSaVA1Yb23h/OYHuKjK69MNhCAhw=",
+    "accountSignature": "aikhbaNIXCDV44ebpDpSShpDGsfOiHmNRqudsUWEBRpMzoq+60Bj8dLZT6uRkNLxEaz3LZpq8kvMNnMvFvNACw==",
+    "deviceSignature": "1YWSjBbxpmQDt1yMd9k35Ux2BfsSD9l8BEL6HOOteKX/IDE1PKJKsOdFN6UXmu2vSsw45jPzaL0GKcgI+7qBAQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94783757996:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BZ8utZ7BoixkD/65gUmlQNWG9t4fzmB7ioyuvTDYQgIc"
+      }
+    }
+  ],
+  "platform": "iphone"
 }
