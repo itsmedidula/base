@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "SZVMQW7W",
   "me": {
-    "id": "940783288782@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94783288782:25@s.whatsapp.net",
+    "name": "Yethuki Digital Products"
+  },
+  "account": {
+    "details": "CK2+9G0QuvPLxAYYASAAKAA=",
+    "accountSignatureKey": "+DrVPeIpQoBMamZjpZt0V4VBjeqkC+cyDQcbBBx5xyg=",
+    "accountSignature": "HCnqlJo9IdkOKaQWAbP+uCzKRYZL6s3JpFAiHrq9SCcPuvY1vmKZ/u6MzK2jW6DrX9sdjc5+frpaN7XbN4jXBg==",
+    "deviceSignature": "sLopgtJWDwwy8AzeNemTctaEHLY+uTvEEXbKrkrH7RdYVlNlni922KHFdsPC4aRyo9oMdB1E4v49gURU1koHDQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94783288782:25@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bfg61T3iKUKATGpmY6WbdFeFQY3qpAvnMg0HGwQcecco"
+      }
+    }
+  ],
+  "platform": "smba"
 }
