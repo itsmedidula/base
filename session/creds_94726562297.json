@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "DHH5B8YC",
   "me": {
-    "id": "94726562297@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94726562297:20@s.whatsapp.net",
+    "name": "biman"
+  },
+  "account": {
+    "details": "COPW0ccEELT+ysQGGAIgACgA",
+    "accountSignatureKey": "TDTVhvPlSFIxVfauLSbGbGCr72TrvaQm2OVil0y/01o=",
+    "accountSignature": "oSUaoXK9JfcPLA9aMtNf+PuGGA1sGUO0rVcBvcyxMOHVa+W8zIDIGWWDp0GXWqvMHaMIr26SEUohumAioBMuBw==",
+    "deviceSignature": "c6UduSSIR37Qrj4OupR9H87HWrTqZ9+6aUDbx5Q4ndwLiHqoMwdN4gZI9aqTr1hIVHPTcBDwv0YJqm4kf+hYCA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94726562297:20@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BUw01Ybz5UhSMVX2ri0mxmxgq+9k672kJtjlYpdMv9Na"
+      }
+    }
+  ],
+  "platform": "smba"
 }
