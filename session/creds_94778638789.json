@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "4BYX5JEJ",
   "me": {
-    "id": "94778638789@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94778638789:43@s.whatsapp.net",
+    "name": "Shamalka Broz"
+  },
+  "account": {
+    "details": "CKzd+84FEP6Jy8QGGAQgACgA",
+    "accountSignatureKey": "HzAk8VrGVSMM03lmkbAxf+lP4JdEdtTRKAeuxMreUy0=",
+    "accountSignature": "2WzbQObjz2fT8XhDdQHXVmvZrJ3AUFdBVYbz7Y693TA0IoDbusBb61ChRSm76Bl7LNCn9y1e+fp5Z86q4gkKCg==",
+    "deviceSignature": "rxF+eTuMcIvdxL7EqOBO/6YMASaQzX6Ke5pmglfzHfQyuvjuNBJ9yZE+4FOOFTG7fZkb8hfoNwlaIN01IIohDA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94778638789:43@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BR8wJPFaxlUjDNN5ZpGwMX/pT+CXRHbU0SgHrsTK3lMt"
+      }
+    }
+  ],
+  "platform": "smba"
 }
