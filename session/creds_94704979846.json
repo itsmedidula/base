@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "NGEKRH77",
   "me": {
-    "id": "94704979846@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94704979846:34@s.whatsapp.net",
+    "name": "S Priyankara"
+  },
+  "account": {
+    "details": "CJKcp4oGEKb2ysQGGAEgACgA",
+    "accountSignatureKey": "CAkHmMrzKAK7He1veuccUwmKegU9iaTgOtAq/1c6Vjc=",
+    "accountSignature": "fM/kXc1Vi7CFM6/xh3b5EqS5z1ppe++8FSnP3tJt0GPALmZHlYSK4uX/APGIkfxv/qp9bbEthrjjXFzcf3aODQ==",
+    "deviceSignature": "bs/aR1NmPrypp1DvXOZTXjs2zobkiVAo94gsNkwE3VfIbbEqphSrPeFij3l4y4PC1em+Iy9iloNad4TqFi+Cjg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94704979846:34@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BQgJB5jK8ygCux3tb3rnHFMJinoFPYmk4DrQKv9XOlY3"
+      }
+    }
+  ],
+  "platform": "smba"
 }
