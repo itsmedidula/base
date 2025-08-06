@@ -79,5 +79,10 @@
       }
     }
   ],
-  "platform": "smbi"
+  "platform": "smbi",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAIIDQ=="
+  },
+  "lastAccountSyncTimestamp": 1754447030
 }
