@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "HTR1ABAL",
   "me": {
-    "id": "94759142590:18@s.whatsapp.net"
+    "id": "94759142590:18@s.whatsapp.net",
+    "lid": "176794342801622:18@lid"
   },
   "account": {
     "details": "COWd4bEGELfy0cQGGAEgACgA",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CAIIEg=="
   },
-  "lastAccountSyncTimestamp": 1754560837
+  "lastAccountSyncTimestamp": 1754560837,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAAGXL"
 }
