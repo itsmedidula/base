@@ -48,10 +48,27 @@
   },
   "registrationId": 101,
   "advSecretKey": "jUgQkDCwpOsbvfqvdkgM1TAGgrAm6NR1GyL5O+gp00U=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94741852787@s.whatsapp.net",
+        "fromMe": true,
+        "id": "0595FFD45C76C8DD52D16C6EC28FCCFE"
+      },
+      "messageTimestamp": 1754559927
+    },
+    {
+      "key": {
+        "remoteJid": "94741852787@s.whatsapp.net",
+        "fromMe": true,
+        "id": "9111FB5D84F2CDB88335225F9E6108C0"
+      },
+      "messageTimestamp": 1754559927
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +76,8 @@
   "pairingCode": "XXJS3QZ8",
   "me": {
     "id": "94741852787:23@s.whatsapp.net",
-    "lid": "55650444902566:23@lid"
+    "lid": "55650444902566:23@lid",
+    "name": "🎬Film Land Official 🤗"
   },
   "account": {
     "details": "CLSMnJMFEKXr0cQGGAUgACgA",
