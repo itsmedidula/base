@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "NEGW8GZV",
   "me": {
-    "id": "50941252648@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "50941252648:3@s.whatsapp.net",
+    "name": "Black"
+  },
+  "account": {
+    "details": "CIOjhtUMEPDL0MQGGAMgACgA",
+    "accountSignatureKey": "eHfBcIjl2uKLe9ImqvrlLbb5i8PPdKbEaemSh5DPFW4=",
+    "accountSignature": "yBoDJNRhcBS3suDmFifJ0gXxETTMjJHIdpCR7qHO8wMrjzprPMtS1qthfYreKFCWZKdhAGT9UtBXWRo4ZX1MCQ==",
+    "deviceSignature": "EAC/nAFeJFuR8/4SS91cmFRIIgsWxcUliWng+6bfLuQZ74SLCA8k7Wibjo+URaremyUvvMhBMcU1DTqwvI3jAg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "50941252648:3@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXh3wXCI5drii3vSJqr65S22+YvDz3SmxGnpkoeQzxVu"
+      }
+    }
+  ],
+  "platform": "smbi"
 }
