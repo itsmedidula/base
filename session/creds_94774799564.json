@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "PWAST74S",
   "me": {
-    "id": "94774799564@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94774799564:23@s.whatsapp.net",
+    "name": "Ｌᴏ ᴋ ᴜ Ｓʜ ᴀ ᴅ ʏ Ｂʙ ʜ"
+  },
+  "account": {
+    "details": "CL7KyJEGELmB08QGGAQgACgA",
+    "accountSignatureKey": "Y56MEf4j1x204APBFx5jOQGSDTppX+a8oCnH93ftU20=",
+    "accountSignature": "WpfsPNWdziinVWt0ERVMDjpVe/ktgaWGjl2xqj/kl9BIqOoHcF+HlwbwwSE3IzspMJ8jyGnXbubsS/Up/JMzBw==",
+    "deviceSignature": "kGSN1S62kucPowfFeEy9mrxezQN5fAirfxwrydAE/vCl9f3+Lop7xlkm+lx7qkntlR7yNRE+yheLwjIvNr02Bw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94774799564:23@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BWOejBH+I9cdtOADwRceYzkBkg06aV/mvKApx/d37VNt"
+      }
+    }
+  ],
+  "platform": "smba"
 }
