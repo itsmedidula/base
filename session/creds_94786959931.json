@@ -56,6 +56,14 @@
         "id": "C340AC82604FAE134A9062E34EBF01AC"
       },
       "messageTimestamp": 1754597220
+    },
+    {
+      "key": {
+        "remoteJid": "94786959931@s.whatsapp.net",
+        "fromMe": true,
+        "id": "DC8941AEB8ED73672C99B6A63326B105"
+      },
+      "messageTimestamp": 1754597220
     }
   ],
   "nextPreKeyId": 31,
@@ -68,7 +76,8 @@
   "pairingCode": "1VRKDMPB",
   "me": {
     "id": "94786959931:2@s.whatsapp.net",
-    "lid": "243770029256942:2@lid"
+    "lid": "243770029256942:2@lid",
+    "name": "🤍"
   },
   "account": {
     "details": "CPv109EHENaO1MQGGAEgACgA",
