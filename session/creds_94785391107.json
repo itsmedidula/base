@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "ZB4ZDCDG",
   "me": {
-    "id": "94785391107@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94785391107:9@s.whatsapp.net",
+    "name": "私たちが送るデネス"
+  },
+  "account": {
+    "details": "CJ6kv+UHEI6/0sQGGAEgACgA",
+    "accountSignatureKey": "VVu0dX0ATKDQohV8FRTZeBAbJCfFrcgEzmEd3ONoIF8=",
+    "accountSignature": "l+7NPRlOKbA8O6GhEkzSzmoekJupDcXt82EYtekFG6/DFP0hqtN18NlNveXt0y1jsrKCqPf7bX5FmJv9VNPOAw==",
+    "deviceSignature": "mJUCw5k1a3gtOPChvIOfr1QWQPZnZ3goozOtm1+VWPZv3L29gTmwkcyAHDP3CdykCwUnUKYMX4rInBCfvyWsgw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94785391107:9@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BVVbtHV9AEyg0KIVfBUU2XgQGyQnxa3IBM5hHdzjaCBf"
+      }
+    }
+  ],
+  "platform": "smba"
 }
