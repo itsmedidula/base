@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "P37TG46J",
   "me": {
-    "id": "94770760182:1@s.whatsapp.net"
+    "id": "94770760182:1@s.whatsapp.net",
+    "lid": "21153334743117:1@lid"
   },
   "account": {
     "details": "CIao7NkBEIj00sQGGAEgACgA",
@@ -83,5 +84,6 @@
     "type": "Buffer",
     "data": "CA0IAg=="
   },
-  "lastAccountSyncTimestamp": 1754577420
+  "lastAccountSyncTimestamp": 1754577420,
+  "lastPropHash": "1K4hH4"
 }
