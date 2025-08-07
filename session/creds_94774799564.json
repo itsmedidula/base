@@ -59,7 +59,8 @@
   "pairingCode": "PWAST74S",
   "me": {
     "id": "94774799564:23@s.whatsapp.net",
-    "name": "Ｌᴏ ᴋ ᴜ Ｓʜ ᴀ ᴅ ʏ Ｂʙ ʜ"
+    "name": "Ｌᴏ ᴋ ᴜ Ｓʜ ᴀ ᴅ ʏ Ｂʙ ʜ",
+    "lid": "157591627919520:23@lid"
   },
   "account": {
     "details": "CL7KyJEGELmB08QGGAQgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAIIDQ=="
   },
-  "lastAccountSyncTimestamp": 1754579141
+  "lastAccountSyncTimestamp": 1754579141,
+  "lastPropHash": "2V77qU",
+  "myAppStateKeyId": "AAAAAHr6"
 }
