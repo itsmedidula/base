@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "WFFBQ6G4",
   "me": {
-    "id": "94766242158:6@s.whatsapp.net"
+    "id": "94766242158:6@s.whatsapp.net",
+    "lid": "76965981732900:6@lid"
   },
   "account": {
     "details": "CN2ysP4EEKPv0MQGGDEgACgA",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CAUIEg=="
   },
-  "lastAccountSyncTimestamp": 1754544048
+  "lastAccountSyncTimestamp": 1754544048,
+  "lastPropHash": "3R9Z39",
+  "myAppStateKeyId": "AFMAAMNr"
 }
