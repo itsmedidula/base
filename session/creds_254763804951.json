@@ -58,7 +58,9 @@
   "registered": true,
   "pairingCode": "ECQX3EML",
   "me": {
-    "id": "254763804951:43@s.whatsapp.net"
+    "id": "254763804951:43@s.whatsapp.net",
+    "lid": "34819719311398:43@lid",
+    "name": "Hero✨"
   },
   "account": {
     "details": "COqw2I4GEPTS08QGGAEgACgA",
@@ -83,5 +85,6 @@
     "type": "Buffer",
     "data": "CAUIAg=="
   },
-  "lastAccountSyncTimestamp": 1754589571
+  "lastAccountSyncTimestamp": 1754589571,
+  "lastPropHash": "PWk5B"
 }
