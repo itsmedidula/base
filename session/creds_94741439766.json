@@ -58,8 +58,8 @@
       "messageTimestamp": 1754543787
     }
   ],
-  "nextPreKeyId": 33,
-  "firstUnuploadedPreKeyId": 33,
+  "nextPreKeyId": 34,
+  "firstUnuploadedPreKeyId": 34,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -68,7 +68,8 @@
   "pairingCode": "4XT6PLVX",
   "me": {
     "id": "94741439766:20@s.whatsapp.net",
-    "lid": "48580861624429:20@lid"
+    "lid": "48580861624429:20@lid",
+    "name": "것  랜  豈  悪            ツ"
   },
   "account": {
     "details": "CNu9w7sBEJPt0MQGGAEgACgA",
