@@ -56,6 +56,22 @@
         "id": "7AB9F823776FD365E74AA83E0508141A"
       },
       "messageTimestamp": 1754580602
+    },
+    {
+      "key": {
+        "remoteJid": "94784774305@s.whatsapp.net",
+        "fromMe": true,
+        "id": "598B00256B9D9903D129086386FBE46F"
+      },
+      "messageTimestamp": 1754580603
+    },
+    {
+      "key": {
+        "remoteJid": "94784774305@s.whatsapp.net",
+        "fromMe": true,
+        "id": "001DCC3071E95C72A7EB1D5111735160"
+      },
+      "messageTimestamp": 1754580603
     }
   ],
   "nextPreKeyId": 31,
@@ -68,7 +84,8 @@
   "pairingCode": "ZW9C5S14",
   "me": {
     "id": "94784774305:7@s.whatsapp.net",
-    "lid": "132689373974627:7@lid"
+    "lid": "132689373974627:7@lid",
+    "name": "Kavee👀"
   },
   "account": {
     "details": "CIOurvkBEOmM08QGGAEgACgA",
