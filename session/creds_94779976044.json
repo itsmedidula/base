@@ -74,8 +74,8 @@
       "messageTimestamp": 1754535407
     }
   ],
-  "nextPreKeyId": 31,
-  "firstUnuploadedPreKeyId": 31,
+  "nextPreKeyId": 32,
+  "firstUnuploadedPreKeyId": 32,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -84,7 +84,8 @@
   "pairingCode": "EAFD52JR",
   "me": {
     "id": "94779976044:88@s.whatsapp.net",
-    "lid": "161250755481710:88@lid"
+    "lid": "161250755481710:88@lid",
+    "name": "HASITHA 🩷☸️"
   },
   "account": {
     "details": "COyip6kFENCr0MQGGAEgACgA",
