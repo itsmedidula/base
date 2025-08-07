@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "ALRR36YQ",
   "me": {
-    "id": "50943131091@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "50943131091:10@s.whatsapp.net",
+    "name": "Young"
+  },
+  "account": {
+    "details": "CJnSxocNEJiR0MQGGAEgACgA",
+    "accountSignatureKey": "IcS0/WnTETVfBy4cbrw7iezdNaGsy/krfyz6/BGdbnQ=",
+    "accountSignature": "cNCzw+32tvnnJ3r5HXW7A7uBPmcwuwfWBr+huG4loZ6uYZWmSnW9rGN/fCLfdwsVuhohIz+0zCotd7MJzM4NBQ==",
+    "deviceSignature": "4ycR+Ce9UP/Ty76Nsh2a8+SGyyZP7sIIy/kh/+EdK5xhaMJCXrRSKBq2BEmHJOS2j3XMHgmpxbjZ6ifepDkWAQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "50943131091:10@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BSHEtP1p0xE1XwcuHG68O4ns3TWhrMv5K38s+vwRnW50"
+      }
+    }
+  ],
+  "platform": "smbi"
 }
