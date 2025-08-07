@@ -60,7 +60,7 @@
   ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -68,7 +68,8 @@
   "pairingCode": "VAM5GMZK",
   "me": {
     "id": "50944314267:60@s.whatsapp.net",
-    "lid": "26865540558907:60@lid"
+    "lid": "26865540558907:60@lid",
+    "name": "Forever♾️young♋️👑"
   },
   "account": {
     "details": "COnA+q8CEO+U0MQGGAQgACgA",
