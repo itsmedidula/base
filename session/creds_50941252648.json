@@ -59,7 +59,8 @@
   "pairingCode": "NEGW8GZV",
   "me": {
     "id": "50941252648:3@s.whatsapp.net",
-    "name": "Black"
+    "name": "Black",
+    "lid": "264334433329179:3@lid"
   },
   "account": {
     "details": "CIOjhtUMEPDL0MQGGAMgACgA",
@@ -84,5 +85,6 @@
     "type": "Buffer",
     "data": "CA0IAg=="
   },
-  "lastAccountSyncTimestamp": 1754539518
+  "lastAccountSyncTimestamp": 1754539518,
+  "lastPropHash": "3gPUJk"
 }
