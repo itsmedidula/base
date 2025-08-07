@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "FGPBMMY4",
   "me": {
-    "id": "923359191001@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923359191001:16@s.whatsapp.net",
+    "name": "Asim khan"
+  },
+  "account": {
+    "details": "COvt4s4EEOHv0cQGGAEgACgA",
+    "accountSignatureKey": "Vi0HeFQ4/l6oTDmpSJ0INbZnStymJ1SMXentdnpq43M=",
+    "accountSignature": "oHON/GZcAGTMxyU4YjjbX7qb9oXx4SowW+6vXLuwoj4XZk6TNViPsZZUTYFI9O4ooWvFC7rqB/Sb6qmIpFXqCw==",
+    "deviceSignature": "GnyEreH9LrejDBTjxWObhhh2p+VA1Xdtjk3E7pSxJFAyO82fMn+3D9KvHHYWgROq4IQxb9FKv3NrHCChHd4bCQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "923359191001:16@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BVYtB3hUOP5eqEw5qUidCDW2Z0rcpidUjF3p7XZ6auNz"
+      }
+    }
+  ],
+  "platform": "smba"
 }
