@@ -60,7 +60,7 @@
   ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -68,7 +68,8 @@
   "pairingCode": "P37TG46J",
   "me": {
     "id": "94770760182:1@s.whatsapp.net",
-    "lid": "21153334743117:1@lid"
+    "lid": "21153334743117:1@lid",
+    "name": "𝐐𝐮𝐞𝐞𝐧 𝐝𝐨𝐧𝐢"
   },
   "account": {
     "details": "CIao7NkBEIj00sQGGAEgACgA",
