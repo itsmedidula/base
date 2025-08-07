@@ -51,7 +51,7 @@
   "processedHistoryMessages": [],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -85,5 +85,7 @@
     "type": "Buffer",
     "data": "CA0IEg=="
   },
-  "lastAccountSyncTimestamp": 1754560494
+  "lastAccountSyncTimestamp": 1754560494,
+  "lastPropHash": "3R9Z39",
+  "myAppStateKeyId": "AAAAAJV6"
 }
