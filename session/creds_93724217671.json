@@ -48,7 +48,24 @@
   },
   "registrationId": 135,
   "advSecretKey": "h5RD61xMo6GTrKB5NvmpwhtwOciR8oQAHsEo+a0WbAA=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "93724217671@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A54D035EDD1B2FA1C63825AA59FD9CCB"
+      },
+      "messageTimestamp": 1754656814
+    },
+    {
+      "key": {
+        "remoteJid": "93724217671@s.whatsapp.net",
+        "fromMe": true,
+        "id": "674D4EADF131C0E1D8DC273AE389A431"
+      },
+      "messageTimestamp": 1754656817
+    }
+  ],
   "nextPreKeyId": 61,
   "firstUnuploadedPreKeyId": 61,
   "accountSyncCounter": 1,
