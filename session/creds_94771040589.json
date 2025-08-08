@@ -48,10 +48,19 @@
   },
   "registrationId": 174,
   "advSecretKey": "a/vnbeZl0EkE0kR7LaY/qJEvurHjvXjNv8NlPU7cznc=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94771040589@s.whatsapp.net",
+        "fromMe": true,
+        "id": "23D84914A03AEFC0CDB91319968E8AB7"
+      },
+      "messageTimestamp": 1754631534
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +68,8 @@
   "pairingCode": "VQEKDM7A",
   "me": {
     "id": "94771040589:6@s.whatsapp.net",
-    "lid": "221891482652772:6@lid"
+    "lid": "221891482652772:6@lid",
+    "name": "😗Hashan Boz..."
   },
   "account": {
     "details": "CO2I0OQEEN6a1sQGGAMgACgA",
