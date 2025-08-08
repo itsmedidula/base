@@ -51,9 +51,9 @@
   "processedHistoryMessages": [],
   "nextPreKeyId": 61,
   "firstUnuploadedPreKeyId": 61,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
-    "unarchiveChats": false
+    "unarchiveChats": true
   },
   "registered": true,
   "pairingCode": "Y8ZBS897",
@@ -86,5 +86,6 @@
     "data": "CAgIDQ=="
   },
   "lastAccountSyncTimestamp": 1754656808,
-  "lastPropHash": "2P1Yhf"
+  "lastPropHash": "2P1Yhf",
+  "myAppStateKeyId": "AAAAAPaF"
 }
