@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "Z53NEXYG",
   "me": {
-    "id": "212644554760@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "212644554760:8@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CP6z/9IGELv92cQGGAEgACgA",
+    "accountSignatureKey": "3JPleKfnR+X8Nxt/unUpW4Yx3pAwHZkePePkZ7tw7h0=",
+    "accountSignature": "/WIBU0trfsTL4HdoQLAQ/rtAqejmbfSrt3qKzkCOY26hSnH8aicRGQMK01H6kSa/CLIrl7WiZ+Fm1Gs+Q9jJDA==",
+    "deviceSignature": "GqQWVOX1sdV2k5WSm6ClYmYY/xYMM/MgYJWgIySUiQAlPwrpQEGxxmq09MLIk9UxM8qwt/OeErmkHc7jYR78Dw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "212644554760:8@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BdyT5Xin50fl/Dcbf7p1KVuGMd6QMB2ZHj3j5Ge7cO4d"
+      }
+    }
+  ],
+  "platform": "android"
 }
