@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "XYMQPQZ1",
   "me": {
-    "id": "918910345247:27@s.whatsapp.net"
+    "id": "918910345247:27@s.whatsapp.net",
+    "lid": "79096721727516:27@lid"
   },
   "account": {
     "details": "CLyk6fgFEOvG2cQGGAIgACgA",
@@ -83,5 +84,6 @@
     "type": "Buffer",
     "data": "CAUIAg=="
   },
-  "lastAccountSyncTimestamp": 1754686329
+  "lastAccountSyncTimestamp": 1754686329,
+  "lastPropHash": "2MFKPQ"
 }
