@@ -48,7 +48,24 @@
   },
   "registrationId": 124,
   "advSecretKey": "+LM10vl95bqZf6bjFhHE8A8Stm8set7OVXH1rZiUv54=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94774112550@s.whatsapp.net",
+        "fromMe": true,
+        "id": "B2DCFD3CE5824A83454CF5C8B39F6213"
+      },
+      "messageTimestamp": 1754677026
+    },
+    {
+      "key": {
+        "remoteJid": "94774112550@s.whatsapp.net",
+        "fromMe": true,
+        "id": "4733DC208146B163E55F83273905BBEE"
+      },
+      "messageTimestamp": 1754677027
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 1,
@@ -59,7 +76,8 @@
   "pairingCode": "1JP6XPN5",
   "me": {
     "id": "94774112550:32@s.whatsapp.net",
-    "lid": "51432787017877:32@lid"
+    "lid": "51432787017877:32@lid",
+    "name": "akeesha"
   },
   "account": {
     "details": "CKqwjtgEEI/+2MQGGAEgACgA",
