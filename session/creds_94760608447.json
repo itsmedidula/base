@@ -56,6 +56,14 @@
         "id": "D22958EAC28F470FA0F66ADF45024C2F"
       },
       "messageTimestamp": 1754740854
+    },
+    {
+      "key": {
+        "remoteJid": "94760608447@s.whatsapp.net",
+        "fromMe": true,
+        "id": "6263022B12458209AE9CC3724258D2C5"
+      },
+      "messageTimestamp": 1754740855
     }
   ],
   "nextPreKeyId": 31,
@@ -68,7 +76,8 @@
   "pairingCode": "KBRGZ6EE",
   "me": {
     "id": "94760608447:1@s.whatsapp.net",
-    "lid": "43508622713012:1@lid"
+    "lid": "43508622713012:1@lid",
+    "name": "Shavi"
   },
   "account": {
     "details": "CPz28bABEOHw3MQGGAEgACgA",
