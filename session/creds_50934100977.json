@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "P79SJET7",
   "me": {
-    "id": "50934100977:34@s.whatsapp.net"
+    "id": "50934100977:34@s.whatsapp.net",
+    "lid": "201971122323670:34@lid"
   },
   "account": {
     "details": "CML28fEPEPGD28QGGBUgACgA",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CA0IAg=="
   },
-  "lastAccountSyncTimestamp": 1754710526
+  "lastAccountSyncTimestamp": 1754710526,
+  "lastPropHash": "3gPUJk",
+  "myAppStateKeyId": "AAAAAP93"
 }
