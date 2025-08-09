@@ -49,8 +49,8 @@
   "registrationId": 82,
   "advSecretKey": "9WkDYxJn2q87Til8ONgK3KhEpO5BPPV93uL5/Wia9hY=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 31,
-  "firstUnuploadedPreKeyId": 31,
+  "nextPreKeyId": 32,
+  "firstUnuploadedPreKeyId": 32,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "RS2279YQ",
   "me": {
     "id": "94762234427:27@s.whatsapp.net",
-    "name": "hi"
+    "name": "hi",
+    "lid": "164390426914926:27@lid"
   },
   "account": {
     "details": "COzb0d4EEOig3cQGGAQgACgA",
@@ -84,5 +85,6 @@
     "type": "Buffer",
     "data": "CA0IBQ=="
   },
-  "lastAccountSyncTimestamp": 1754746998
+  "lastAccountSyncTimestamp": 1754746998,
+  "lastPropHash": "1K4hH4"
 }
