@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "TLEFN6X4",
   "me": {
-    "id": "94743204383@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94743204383:10@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CLnp2vwDEPiC3cQGGAMgACgA",
+    "accountSignatureKey": "1u+57vQnKPfWosLN6wqbtQPVY1G5CIpHgHSyhoMYQEY=",
+    "accountSignature": "lYj15KzV0l4M0Iv1zNi3mtPtsPWhFbtgmcMp98imvQfjEvj98mIxKlT+4du0gBinUdfTu/kqCtZQccDIfMo5BQ==",
+    "deviceSignature": "Fn81gd0o0wfJQMMIC0Bw90bOXWey7zej1NLXumMSIIT6K6oBxoygokrtKoqL09j/TeJjkgNkJzFaoWJIZfGciQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94743204383:10@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bdbvue70Jyj31qLCzesKm7UD1WNRuQiKR4B0soaDGEBG"
+      }
+    }
+  ],
+  "platform": "android"
 }
