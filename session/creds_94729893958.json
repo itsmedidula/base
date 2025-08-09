@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "T23SAVR9",
   "me": {
-    "id": "94729893958@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94729893958:4@s.whatsapp.net",
+    "name": "bba"
+  },
+  "account": {
+    "details": "COus/L4CEPrb3MQGGAQgACgA",
+    "accountSignatureKey": "Q9QoOX/5hHL5UHm6GyLvFpR9IWFR0tIEkmWDf5s03ns=",
+    "accountSignature": "2zjDMX6NjpcC9ONkxrtoVnEJZInWasbkkvxVz8Q9d1PvaniazZDmj6qiBeHqYGakb8GR2fq+y1rBX2424TJDBw==",
+    "deviceSignature": "EiA/kPKV51Fk6yUYzUZ6dUoGxqUZCQHWo5D/3n6d0bmarutnKWKZH9Jz8TBMdE/KDvezOZWD/bQAjsLYAMBpCA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94729893958:4@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BUPUKDl/+YRy+VB5uhsi7xaUfSFhUdLSBJJlg3+bNN57"
+      }
+    }
+  ],
+  "platform": "smba"
 }
