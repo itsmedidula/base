@@ -84,5 +84,7 @@
     "type": "Buffer",
     "data": "CBIIBQ=="
   },
-  "lastAccountSyncTimestamp": 1754741129
+  "lastAccountSyncTimestamp": 1754741129,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAAFut"
 }
