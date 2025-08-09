@@ -59,7 +59,8 @@
   "pairingCode": "BG8LAVJL",
   "me": {
     "id": "94701627402:1@s.whatsapp.net",
-    "name": "Alex Team Addmin"
+    "name": "Alex Team Addmin",
+    "lid": "220710349893846:1@lid"
   },
   "account": {
     "details": "CJ+Gq+MBEKOf28QGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CA0IAg=="
   },
-  "lastAccountSyncTimestamp": 1754714031
+  "lastAccountSyncTimestamp": 1754714031,
+  "lastPropHash": "3R9Z39",
+  "myAppStateKeyId": "AAAAAH44"
 }
