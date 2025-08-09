@@ -49,8 +49,8 @@
   "registrationId": 120,
   "advSecretKey": "BhRnMHZJTiRLJYLZjC/49npfTQc7PdvGJAQzn7WoFXE=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 32,
-  "firstUnuploadedPreKeyId": 32,
+  "nextPreKeyId": 62,
+  "firstUnuploadedPreKeyId": 62,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -85,7 +85,7 @@
     "type": "Buffer",
     "data": "CA0IAg=="
   },
-  "lastAccountSyncTimestamp": 1754710526,
+  "lastAccountSyncTimestamp": 1754711146,
   "lastPropHash": "3gPUJk",
   "myAppStateKeyId": "AAAAAP93"
 }
