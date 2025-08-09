@@ -49,8 +49,8 @@
   "registrationId": 132,
   "advSecretKey": "25dNTk0H5FFb+Vdt77ys/uVfLTOt0eEF5A/IJ2/sSe8=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "8SKLANXQ",
   "me": {
-    "id": "94766494699:29@s.whatsapp.net"
+    "id": "94766494699:29@s.whatsapp.net",
+    "lid": "268320129446000:29@lid"
   },
   "account": {
     "details": "CKO0g64JEMvR28QGGAEgACgA",
