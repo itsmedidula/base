@@ -49,8 +49,8 @@
   "registrationId": 77,
   "advSecretKey": "zg4kxe71HAeoKcS9w/iD66KoYZ3mLH16iCHCdWe4Bqg=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "ANWD73AF",
   "me": {
-    "id": "94741789869:4@s.whatsapp.net"
+    "id": "94741789869:4@s.whatsapp.net",
+    "lid": "183807890198740:4@lid"
   },
   "account": {
     "details": "CJDBh70HEMCu3cQGGAEgACgA",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CAgIBQ=="
   },
-  "lastAccountSyncTimestamp": 1754748750
+  "lastAccountSyncTimestamp": 1754748750,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAAE9s"
 }
