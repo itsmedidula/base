@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "GLC1P4DY",
   "me": {
-    "id": "94707356404:2@s.whatsapp.net"
+    "id": "94707356404:2@s.whatsapp.net",
+    "lid": "276390389747893:2@lid"
   },
   "account": {
     "details": "CLiMt/sBENiY3cQGGAEgACgA",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CBIICA=="
   },
-  "lastAccountSyncTimestamp": 1754745957
+  "lastAccountSyncTimestamp": 1754745957,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAAFXZ"
 }
