@@ -59,7 +59,8 @@
   "pairingCode": "SWDFSTKR",
   "me": {
     "id": "94703438573:38@s.whatsapp.net",
-    "name": "gadanidu626"
+    "name": "gadanidu626",
+    "lid": "95464556859574:38@lid"
   },
   "account": {
     "details": "CKml78sDEN/S3cQGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAUIAg=="
   },
-  "lastAccountSyncTimestamp": 1754753389
+  "lastAccountSyncTimestamp": 1754753389,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAANg1"
 }
