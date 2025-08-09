@@ -49,8 +49,8 @@
   "registrationId": 170,
   "advSecretKey": "VAon+X0GQskrYDpvej3Fq3DYA69qN7yucRc4lbSH6AA=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "T23SAVR9",
   "me": {
     "id": "94729893958:4@s.whatsapp.net",
-    "name": "bba"
+    "name": "bba",
+    "lid": "247044421730472:4@lid"
   },
   "account": {
     "details": "COus/L4CEPrb3MQGGAQgACgA",
