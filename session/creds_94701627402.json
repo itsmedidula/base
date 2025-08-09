@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "BG8LAVJL",
   "me": {
-    "id": "94701627402@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94701627402:1@s.whatsapp.net",
+    "name": "Alex Team Addmin"
+  },
+  "account": {
+    "details": "CJ+Gq+MBEKOf28QGGAEgACgA",
+    "accountSignatureKey": "HHItDZqfUsemnxF7Li5ugg3Qy51tC/6E+tUBOwTqHxc=",
+    "accountSignature": "1BUoEOELQq2OBZw36wGSoHIVYVdn7w7EP7hiogLXIFLmNIT2KEwlzmiHLbGVjYb7YQkO2YY5HMuQVd6tsxMvBw==",
+    "deviceSignature": "x77/Jdrv+ZhvzaCXVgk7iydaPfQhEPE0DBeTze5sh6z9Fx2mpHvDxBwaNW/tR9xADyx5HVeNu4FYyjQfNI52gw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94701627402:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BRxyLQ2an1LHpp8Rey4uboIN0MudbQv+hPrVATsE6h8X"
+      }
+    }
+  ],
+  "platform": "smba"
 }
