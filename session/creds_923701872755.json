@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "CGWD542J",
   "me": {
-    "id": "923701872755@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923701872755:19@s.whatsapp.net",
+    "name": "cid"
+  },
+  "account": {
+    "details": "CIfZwJAGELj028QGGAcgACgA",
+    "accountSignatureKey": "9LXZsMuK4JNiUXr824FryTvGE0SvZwC+tXGWhBojygY=",
+    "accountSignature": "foechVy9HcH0zkuDwdjFcu4yIpMbt9cozpKtUp7bWaFqlVPuLcmJLAdi/9xsIByM2V1kgUWaugANz3dBB64XBQ==",
+    "deviceSignature": "PNYfpObWuj0T0pz0CusYl7TKq2WyEx79GCfiqNirJG9CXh4DSqdNWCNbqJmhIHP1ebf3rvBJD0Xn0S5RppqJAw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "923701872755:19@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BfS12bDLiuCTYlF6/NuBa8k7xhNEr2cAvrVxloQaI8oG"
+      }
+    }
+  ],
+  "platform": "smba"
 }
