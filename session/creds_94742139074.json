@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "CXJ5J6MQ",
   "me": {
-    "id": "94742139074@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94742139074:28@s.whatsapp.net",
+    "name": "Gagana maliyadda"
+  },
+  "account": {
+    "details": "CMf2pa8EEIzq3cQGGAEgACgA",
+    "accountSignatureKey": "e/6Evct4Rb6mvlCoMRCnYHSR4ZMYIKW3yJ2vaGqT5mo=",
+    "accountSignature": "VLG/M8icxL9qgvC6rbB/YCrXlDM7X+EvoxiONJnFV4r6AptI/R22QoKy1j0FgcJ9oC4GNGALuwahcX0sVayUig==",
+    "deviceSignature": "+pgi8N7jwL6o5rYJdj1DubdE+nWpKFWtJv3bd41H3UZ9Odt5/o8SlJe/QhHDiaK26dJ6PEIMrnybfrS+n1p4BA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94742139074:28@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXv+hL3LeEW+pr5QqDEQp2B0keGTGCClt8idr2hqk+Zq"
+      }
+    }
+  ],
+  "platform": "smbi"
 }
