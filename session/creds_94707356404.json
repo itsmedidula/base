@@ -56,6 +56,14 @@
         "id": "704534683A7C845060E3CF6232A816AF"
       },
       "messageTimestamp": 1754745961
+    },
+    {
+      "key": {
+        "remoteJid": "94707356404@s.whatsapp.net",
+        "fromMe": true,
+        "id": "45A018FCA330AE3680F59689AD591B87"
+      },
+      "messageTimestamp": 1754745961
     }
   ],
   "nextPreKeyId": 31,
@@ -68,7 +76,8 @@
   "pairingCode": "GLC1P4DY",
   "me": {
     "id": "94707356404:2@s.whatsapp.net",
-    "lid": "276390389747893:2@lid"
+    "lid": "276390389747893:2@lid",
+    "name": "Menula"
   },
   "account": {
     "details": "CLiMt/sBENiY3cQGGAEgACgA",
