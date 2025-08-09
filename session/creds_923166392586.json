@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "ET73C46V",
   "me": {
-    "id": "923166392586@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923166392586:45@s.whatsapp.net",
+    "name": "Hunter×D"
+  },
+  "account": {
+    "details": "CJ+0pzsQvf7axAYYGyAAKAA=",
+    "accountSignatureKey": "edZL5hrJF9MqiuszxsdroT/ZfSCKdslPK5knSs5Zqwo=",
+    "accountSignature": "7HJZuUro7UHEHHJYZrNa97oY1t2tjlpcdFrpTImNLBfVJD6tyx93jo2fp2DL+IZ1wNLeGhU2PvARtGerlXMSCg==",
+    "deviceSignature": "TjXhRYW3UtMbYHV5wkll2uLqLdH6+37prSoHSxe6ZQn5D5dv1/fUiGzaqugSMo6A8T+4pNUov4xHbKTSwFWjiA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "923166392586:45@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXnWS+YayRfTKorrM8bHa6E/2X0ginbJTyuZJ0rOWasK"
+      }
+    }
+  ],
+  "platform": "smba"
 }
