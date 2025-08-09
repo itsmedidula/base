@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "ANWD73AF",
   "me": {
-    "id": "94741789869@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94741789869:4@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CJDBh70HEMCu3cQGGAEgACgA",
+    "accountSignatureKey": "KuGBBpQs9MMfBUIiRiE9gqBQ+UjNIhCBmOxfMCRxX1E=",
+    "accountSignature": "wKhiNCmEMpYTyFxtAHfCF+tayzN1UMbZiBpUiS22Tbrrll6vJ3keRj9RAcHDsupYQOce6iobo2Dd4aFaAMQTBQ==",
+    "deviceSignature": "QKBcKi01heLVsg6U3AH0UzovBaQoMxD/oAEi6kqswNH5j7ajb9fyeWv0Nxj3xuKOaeYtGSRchsNU9vycbSRIgQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94741789869:4@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BSrhgQaULPTDHwVCIkYhPYKgUPlIzSIQgZjsXzAkcV9R"
+      }
+    }
+  ],
+  "platform": "android"
 }
