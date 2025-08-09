@@ -48,10 +48,19 @@
   },
   "registrationId": 33,
   "advSecretKey": "be/5KHb+qcWc+lX9MRADkEaMJ2TNEEzWoHqx7mu0qHg=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94743204383@s.whatsapp.net",
+        "fromMe": true,
+        "id": "756F632FD466B00DFB8711A3D05F376A"
+      },
+      "messageTimestamp": 1754743180
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +68,8 @@
   "pairingCode": "TLEFN6X4",
   "me": {
     "id": "94743204383:10@s.whatsapp.net",
-    "lid": "190881600638982:10@lid"
+    "lid": "190881600638982:10@lid",
+    "name": "K.N.C.Deminda"
   },
   "account": {
     "details": "CLnp2vwDEPiC3cQGGAMgACgA",
