@@ -56,6 +56,14 @@
         "id": "B71A141CA5B484A9775D9660B798A302"
       },
       "messageTimestamp": 1754730625
+    },
+    {
+      "key": {
+        "remoteJid": "15879974385@s.whatsapp.net",
+        "fromMe": true,
+        "id": "536A8978CADB9C200D581432531E9A2A"
+      },
+      "messageTimestamp": 1754730631
     }
   ],
   "nextPreKeyId": 31,
