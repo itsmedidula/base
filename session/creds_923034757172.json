@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "GLRBGF18",
   "me": {
-    "id": "923034757172@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923034757172:54@s.whatsapp.net"
+  },
+  "account": {
+    "details": "COiG454HEI2y3sQGGAEgACgA",
+    "accountSignatureKey": "wOcVPa/k1HGS3QWs5+fEXk/2Antc+0R1KQ44W4ZSo0M=",
+    "accountSignature": "NRTKjroWks3MJGIzJXFYePG5uQa9VBhNLwJtkrimNRx+VmbPN7muDlh9n4G35utLmM9a0bxj2FNTFuAqBKk9BQ==",
+    "deviceSignature": "vG1f7SN0Dj46Yc35Z+gDaQKGQL700zsHawiywOSldNFCnxMlXjw77rLSJNC5cZZAdV8tcUAbjzBLTsPnzEvojQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "923034757172:54@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BcDnFT2v5NRxkt0FrOfnxF5P9gJ7XPtEdSkOOFuGUqND"
+      }
+    }
+  ],
+  "platform": "android"
 }
