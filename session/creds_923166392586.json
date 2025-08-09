@@ -49,8 +49,8 @@
   "registrationId": 187,
   "advSecretKey": "JeMQRc5Pk8+hemkNOj8XWA6Zl42uo+dPlERVtSkfrp4=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "ET73C46V",
   "me": {
     "id": "923166392586:45@s.whatsapp.net",
-    "name": "Hunter×D"
+    "name": "Hunter×D",
+    "lid": "249160162893911:45@lid"
   },
   "account": {
     "details": "CJ+0pzsQvf7axAYYGyAAKAA=",
