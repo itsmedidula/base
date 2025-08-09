@@ -59,7 +59,8 @@
   "pairingCode": "XDXQY4YM",
   "me": {
     "id": "94769990498:2@s.whatsapp.net",
-    "name": "Rajitha."
+    "name": "Rajitha.",
+    "lid": "271438258950177:2@lid"
   },
   "account": {
     "details": "CP21/yYQv4HexAYYASAAKAA=",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAIICA=="
   },
-  "lastAccountSyncTimestamp": 1754759374
+  "lastAccountSyncTimestamp": 1754759374,
+  "lastPropHash": "2V77qU",
+  "myAppStateKeyId": "AAAAAK7t"
 }
