@@ -59,7 +59,8 @@
   "pairingCode": "CXJ5J6MQ",
   "me": {
     "id": "94742139074:28@s.whatsapp.net",
-    "name": "Gagana maliyadda"
+    "name": "Gagana maliyadda",
+    "lid": "87553478787214:28@lid"
   },
   "account": {
     "details": "CMf2pa8EEIzq3cQGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAIQAxAA"
   },
-  "lastAccountSyncTimestamp": 1754756375
+  "lastAccountSyncTimestamp": 1754756375,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAAFCO"
 }
