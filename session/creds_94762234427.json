@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "RS2279YQ",
   "me": {
-    "id": "94762234427@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94762234427:27@s.whatsapp.net",
+    "name": "hi"
+  },
+  "account": {
+    "details": "COzb0d4EEOig3cQGGAQgACgA",
+    "accountSignatureKey": "/vVZtK65vWDyExFAg1w0rFnGZEqc34nQbNudaENU3Ts=",
+    "accountSignature": "0cHmc2w6N1ToPzPHUffb6LwIj8yyU1YpZgcITW8C3zbFggSBEuh8lK6DzqUnWuDwemwleSS0RsXtQll4FmJlBQ==",
+    "deviceSignature": "klrBY16rMSRAGVZy+KKB1j+83TJsEyu7qw18wsnfqpIMm5L8PG7WCPY1JDCRp65tH4RU0TFwwpxwzqzYInFVCQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94762234427:27@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bf71WbSuub1g8hMRQINcNKxZxmRKnN+J0GzbnWhDVN07"
+      }
+    }
+  ],
+  "platform": "smba"
 }
