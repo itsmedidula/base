@@ -59,7 +59,8 @@
   "pairingCode": "CGWD542J",
   "me": {
     "id": "923701872755:19@s.whatsapp.net",
-    "name": "cid"
+    "name": "cid",
+    "lid": "26951523762223:19@lid"
   },
   "account": {
     "details": "CIfZwJAGELj028QGGAcgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAUIAg=="
   },
-  "lastAccountSyncTimestamp": 1754724933
+  "lastAccountSyncTimestamp": 1754724933,
+  "lastPropHash": "3R9Z39",
+  "myAppStateKeyId": "AAAAAKam"
 }
