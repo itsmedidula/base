@@ -49,8 +49,8 @@
   "registrationId": 75,
   "advSecretKey": "5pJ9giEGsXkc+wBb8ZZSTy0xCH3pCTP2/dF6sG5u+eg=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "51HQ46VV",
   "me": {
     "id": "94740091685:11@s.whatsapp.net",
-    "name": "𝙒𝙃𝙄𝙏𝙀_𝘿𝙀𝙑𝙄𝙇"
+    "name": "𝙒𝙃𝙄𝙏𝙀_𝘿𝙀𝙑𝙄𝙇",
+    "lid": "149396293472492:11@lid"
   },
   "account": {
     "details": "CIHnp/8GEPa628QGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CA0IBQ=="
   },
-  "lastAccountSyncTimestamp": 1754717571
+  "lastAccountSyncTimestamp": 1754717571,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAAC2f"
 }
