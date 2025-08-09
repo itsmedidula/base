@@ -49,8 +49,8 @@
   "registrationId": 184,
   "advSecretKey": "f49FsBu9bopTItpHTVLySB2ABdkx5GL54c0qSKWt+UM=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -79,5 +79,10 @@
       }
     }
   ],
-  "platform": "smbi"
+  "platform": "smbi",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAIQAxAA"
+  },
+  "lastAccountSyncTimestamp": 1754756375
 }
