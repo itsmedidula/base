@@ -49,8 +49,8 @@
   "registrationId": 66,
   "advSecretKey": "2QRKJXG3f3vVsUL++W3v9dTL97i4ADDGLn/JGVngiiI=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "Z25WELGA",
   "me": {
     "id": "2348142568097:7@s.whatsapp.net",
-    "name": "Prince Light"
+    "name": "Prince Light",
+    "lid": "129184647106781:7@lid"
   },
   "account": {
     "details": "CK2EuacBEN2u4sQGGAIgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CBIIBQ=="
   },
-  "lastAccountSyncTimestamp": 1754830699
+  "lastAccountSyncTimestamp": 1754830699,
+  "lastPropHash": "nm3Bb",
+  "myAppStateKeyId": "AAAAABqH"
 }
