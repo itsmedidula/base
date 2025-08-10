@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "N4173FQZ",
   "me": {
-    "id": "2349131378785@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "2349131378785:74@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CKjruaICEMqW4sQGGAggACgA",
+    "accountSignatureKey": "RozLVhjjvEPgwF73/hoV5B9ruzY/U7hi0mrU7GQn+B0=",
+    "accountSignature": "N0q/O/h45NI21yg+mDiSJHAa48wql3KJ4FjBB5C6XU4NKU4SNtsQsw75X88efdeq88OR+CAdlYSuvFc4pjVDAw==",
+    "deviceSignature": "VaKZWsEsmo4QjHuzs/sCVbY50AovzYGVXIC/TKxmFp/mHOp/SyCyK+52e+r2wPeOErEaFK4teGE7dFhKgZAVgA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "2349131378785:74@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BUaMy1YY47xD4MBe9/4aFeQfa7s2P1O4YtJq1OxkJ/gd"
+      }
+    }
+  ],
+  "platform": "android"
 }
