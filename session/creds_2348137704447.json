@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "WB14WBHP",
   "me": {
-    "id": "2348137704447@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "2348137704447:19@s.whatsapp.net"
+  },
+  "account": {
+    "details": "COrarMwBEKO14sQGGAMgACgA",
+    "accountSignatureKey": "17GeT8+LATog1gy4/tOVB6nGa1f8J+ueqYUPDT/wsQw=",
+    "accountSignature": "YyZWUyjjWyzhzFccCRkvPLEC/KatW6sS51ylLC9QxwwFSaXZoLgtFMFiswiq+kF0VxY88qvDZB3ZPnlnLgVgDg==",
+    "deviceSignature": "xnG/LiRjFO+mV0QfdfYb9DMF98FCd/ntXWnUdkP9JLfmR1XjIxU4Sese1YoB8INaqw4GR1wJ9fq/BkQwzjHzBw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "2348137704447:19@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bdexnk/PiwE6INYMuP7TlQepxmtX/CfrnqmFDw0/8LEM"
+      }
+    }
+  ],
+  "platform": "android"
 }
