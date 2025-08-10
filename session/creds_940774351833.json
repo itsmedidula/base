@@ -48,10 +48,19 @@
   },
   "registrationId": 149,
   "advSecretKey": "pC+BVYpF94U4yliCN+V5No5RaxdwU1AOapE05qhoDt0=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94774351833@s.whatsapp.net",
+        "fromMe": true,
+        "id": "9478AAF1F3472BE797D1EBE8754B85B4"
+      },
+      "messageTimestamp": 1754823441
+    }
+  ],
   "nextPreKeyId": 32,
   "firstUnuploadedPreKeyId": 32,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +68,8 @@
   "pairingCode": "YR33X8FS",
   "me": {
     "id": "94774351833:17@s.whatsapp.net",
-    "lid": "1151101599853:17@lid"
+    "lid": "1151101599853:17@lid",
+    "name": "~Thavee Subasinghe~"
   },
   "account": {
     "details": "CMShwpkDEOv14cQGGAQgACgA",
