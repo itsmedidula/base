@@ -49,8 +49,8 @@
   "registrationId": 154,
   "advSecretKey": "O3V6+Ce8eLZcbMH0GnoPLLE4/6KAwyBXCHpyguc1Gxs=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "LLHTBEFK",
   "me": {
     "id": "93749252435:12@s.whatsapp.net",
-    "name": "𝚀𝚄𝙴𝙴𝙽 𝚉𝚄𝙷𝙰𝙻"
+    "name": "𝚀𝚄𝙴𝙴𝙽 𝚉𝚄𝙷𝙰𝙻",
+    "lid": "186363563532518:12@lid"
   },
   "account": {
     "details": "CN342uQCEJLp4MQGGAIgACgA",
