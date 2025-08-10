@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "Z1RP65L2",
   "me": {
-    "id": "94741789869:5@s.whatsapp.net"
+    "id": "94741789869:5@s.whatsapp.net",
+    "lid": "183807890198740:5@lid"
   },
   "account": {
     "details": "CJHBh70HEL2i4sQGGAEgACgA",
@@ -83,5 +84,6 @@
     "type": "Buffer",
     "data": "CAgIBQ=="
   },
-  "lastAccountSyncTimestamp": 1754829131
+  "lastAccountSyncTimestamp": 1754829131,
+  "lastPropHash": "PWk5B"
 }
