@@ -59,7 +59,8 @@
   "pairingCode": "6M9LW527",
   "me": {
     "id": "2347046250568:26@s.whatsapp.net",
-    "name": "Duncan"
+    "name": "Duncan",
+    "lid": "279418224255051:26@lid"
   },
   "account": {
     "details": "CNrK17UBEKea4sQGGAMgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAIIDQ=="
   },
-  "lastAccountSyncTimestamp": 1754828085
+  "lastAccountSyncTimestamp": 1754828085,
+  "lastPropHash": "nm3Bb",
+  "myAppStateKeyId": "AAAAAJeq"
 }
