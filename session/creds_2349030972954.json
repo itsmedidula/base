@@ -60,7 +60,7 @@
   ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -94,5 +94,6 @@
     "data": "CBIIBQ=="
   },
   "lastAccountSyncTimestamp": 1754826161,
-  "lastPropHash": "2G4Amu"
+  "lastPropHash": "2G4Amu",
+  "myAppStateKeyId": "AAAAAKVD"
 }
