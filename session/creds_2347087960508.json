@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "1SMT3JN1",
   "me": {
-    "id": "2347087960508@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "2347087960508:5@s.whatsapp.net",
+    "name": "Coach Ebube"
+  },
+  "account": {
+    "details": "CJSF0aUDEOSr4sQGGAEgACgA",
+    "accountSignatureKey": "4DykAYgXRYIUAsz0Teewe8z0vAvCjwOBBcojrYa9EFM=",
+    "accountSignature": "9lc+2FGiGCRi1C/4FHzd0AwzKeAwxQxii3gylACpUMy6UgkTbMVEr8CjFji5NW24XQZsihTQZft8XDpk2ElOAA==",
+    "deviceSignature": "J2gFVOFA22H7Wcu9hkiANI3P0pUD4bykkoUqevOLetmE6WIKG+syqLjCImA0gU1V5MWOWU5gAcOgvYqNPKFRDQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "2347087960508:5@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BeA8pAGIF0WCFALM9E3nsHvM9LwLwo8DgQXKI62GvRBT"
+      }
+    }
+  ],
+  "platform": "smba"
 }
