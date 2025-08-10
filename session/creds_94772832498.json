@@ -48,7 +48,16 @@
   },
   "registrationId": 241,
   "advSecretKey": "JWi0xJwQsDT7NZNC/EitVujJ49XmxaUZg39b0DppHu4=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94772832498@s.whatsapp.net",
+        "fromMe": true,
+        "id": "1F934B34DD665ECE350F9173E1F90E5D"
+      },
+      "messageTimestamp": 1754806473
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
@@ -59,7 +68,8 @@
   "pairingCode": "GDTGTJSD",
   "me": {
     "id": "94772832498:1@s.whatsapp.net",
-    "name": "PASINDU (2)-*"
+    "name": "PASINDU (2)-*",
+    "lid": "218627223605494:1@lid"
   },
   "account": {
     "details": "CK7nytcBELPx4MQGGAEgACgA",
@@ -84,5 +94,6 @@
     "type": "Buffer",
     "data": "CAIIEg=="
   },
-  "lastAccountSyncTimestamp": 1754806465
+  "lastAccountSyncTimestamp": 1754806465,
+  "lastPropHash": "PWk5B"
 }
