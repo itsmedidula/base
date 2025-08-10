@@ -49,8 +49,8 @@
   "registrationId": 232,
   "advSecretKey": "96PG55OvUzNNO+EMLE7u30qKVnEUCaTES8730kiSLlQ=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "C419QF49",
   "me": {
     "id": "96896602911:40@s.whatsapp.net",
-    "name": "𓆩𝗛𝗞_𝗧𝗘𝗖𝗛_𝗚𝗢𝗗𓆪"
+    "name": "𓆩𝗛𝗞_𝗧𝗘𝗖𝗛_𝗚𝗢𝗗𓆪",
+    "lid": "27033010757667:40@lid"
   },
   "account": {
     "details": "CJva1BMQrb7kxAYYASAAKAA=",
