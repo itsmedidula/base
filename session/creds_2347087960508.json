@@ -48,7 +48,16 @@
   },
   "registrationId": 102,
   "advSecretKey": "lultrBX8kLQjl7ko9Oh+X+uGvrIXo2fFe7bll+uMPNg=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "2347087960508@s.whatsapp.net",
+        "fromMe": true,
+        "id": "5FBE870BD5F09127FF6CBAE7FBA0E239"
+      },
+      "messageTimestamp": 1754830336
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
@@ -59,7 +68,8 @@
   "pairingCode": "1SMT3JN1",
   "me": {
     "id": "2347087960508:5@s.whatsapp.net",
-    "name": "Coach Ebube"
+    "name": "Coach Ebube",
+    "lid": "33484152287421:5@lid"
   },
   "account": {
     "details": "CJSF0aUDEOSr4sQGGAEgACgA",
@@ -84,5 +94,6 @@
     "type": "Buffer",
     "data": "CAUICA=="
   },
-  "lastAccountSyncTimestamp": 1754830322
+  "lastAccountSyncTimestamp": 1754830322,
+  "lastPropHash": "3gPUJk"
 }
