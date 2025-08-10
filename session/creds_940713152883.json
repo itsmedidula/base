@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "TXMASLM3",
   "me": {
-    "id": "940713152883@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94713152883:15@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CJ7u9toHEMHR5MQGGAEgACgA",
+    "accountSignatureKey": "cjLl1hX2BK5TnwRREugROEc8FxNCcQBioQXVYjLyE3I=",
+    "accountSignature": "vpp+oCR3CeNaabycZSuGHi8k1y7dSz3FTMzC7Uux/Va2jN4/GrZpLKysSOQ0TozOXLPnryXPoFGHmMxSMr7sDw==",
+    "deviceSignature": "waxCHrutEwOO5jIL6U07fQbOZzDUiHh/VFWb5N7mFChsTquoiDcWfjZER1aE9re/PTobHYF/VFn5AX4i++S6gQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94713152883:15@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXIy5dYV9gSuU58EURLoEThHPBcTQnEAYqEF1WIy8hNy"
+      }
+    }
+  ],
+  "platform": "android"
 }
