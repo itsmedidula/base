@@ -60,7 +60,7 @@
   ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -68,7 +68,8 @@
   "pairingCode": "MZ9RLTKH",
   "me": {
     "id": "94741014634:42@s.whatsapp.net",
-    "lid": "60267484430402:42@lid"
+    "lid": "60267484430402:42@lid",
+    "name": "l m s anuhas"
   },
   "account": {
     "details": "COvNwAEQ4qzjxAYYASAAKAA=",
@@ -95,5 +96,5 @@
   },
   "lastAccountSyncTimestamp": 1754846831,
   "lastPropHash": "3R9Z39",
-  "myAppStateKeyId": "AAAAAFL6"
+  "myAppStateKeyId": "AAAAAI0q"
 }
