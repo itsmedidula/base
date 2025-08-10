@@ -48,10 +48,27 @@
   },
   "registrationId": 185,
   "advSecretKey": "WDQdI0A9bmqA7qk6TWiyQCbjpGvFRqqhhUEelWzFufM=",
-  "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
-  "accountSyncCounter": 0,
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "2347048984433@s.whatsapp.net",
+        "fromMe": true,
+        "id": "EED3238B4B9DE119089AEC525298CEBC"
+      },
+      "messageTimestamp": 1754855130
+    },
+    {
+      "key": {
+        "remoteJid": "2347048984433@s.whatsapp.net",
+        "fromMe": true,
+        "id": "05F908F0FFB29BC380679D43C9BA629C"
+      },
+      "messageTimestamp": 1754855138
+    }
+  ],
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +76,8 @@
   "pairingCode": "B656R5GR",
   "me": {
     "id": "2347048984433:12@s.whatsapp.net",
-    "name": "Komen"
+    "name": "Komen",
+    "lid": "72723023847665:12@lid"
   },
   "account": {
     "details": "CJfcwoIFELHt48QGGAYgACgA",
@@ -84,5 +102,7 @@
     "type": "Buffer",
     "data": "CBIIDQ=="
   },
-  "lastAccountSyncTimestamp": 1754855103
+  "lastAccountSyncTimestamp": 1754855103,
+  "lastPropHash": "2P1Yhf",
+  "myAppStateKeyId": "AAsAAAeB"
 }
