@@ -49,8 +49,8 @@
   "registrationId": 247,
   "advSecretKey": "bytUQbBLyxXYh8ntf8MfOkvbf4IyisldI/hPeX2GzXg=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 32,
-  "firstUnuploadedPreKeyId": 32,
+  "nextPreKeyId": 33,
+  "firstUnuploadedPreKeyId": 33,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "GD7D8WTE",
   "me": {
     "id": "2349041119256:13@s.whatsapp.net",
-    "lid": "95074000044052:13@lid"
+    "lid": "95074000044052:13@lid",
+    "name": "LAKA~PEE_j"
   },
   "account": {
     "details": "CIb4r70DELrf48QGGAEgACgA",
