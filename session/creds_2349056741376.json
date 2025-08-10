@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "QLY26TDA",
   "me": {
-    "id": "2349056741376:4@s.whatsapp.net"
+    "id": "2349056741376:4@s.whatsapp.net",
+    "lid": "1465137516765:4@lid"
   },
   "account": {
     "details": "CKv+mroEEMn/4sQGGAEgACgA",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CAUIEg=="
   },
-  "lastAccountSyncTimestamp": 1754841047
+  "lastAccountSyncTimestamp": 1754841047,
+  "lastPropHash": "2P1Yhf",
+  "myAppStateKeyId": "AAAAADXh"
 }
