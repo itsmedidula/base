@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "6M9LW527",
   "me": {
-    "id": "2347046250568@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "2347046250568:26@s.whatsapp.net",
+    "name": "Duncan"
+  },
+  "account": {
+    "details": "CNrK17UBEKea4sQGGAMgACgA",
+    "accountSignatureKey": "xWKAJrKGMGPJnIBVzOIzAyXsqZO+azJE5zhjTItJTnA=",
+    "accountSignature": "PGuKYdV0zC3yTnaDFhEwgGzw8/m7Qa90YgFkch7IRpOAcWZ5sJOFlvjSOXPoJQS/fOSyqIMMNM2vtO251JPCDg==",
+    "deviceSignature": "Jy+/sBaPfFj6K2VDOZTL6uKL6pzNMs772cokfIH4eCU2fta0vNNH6M57lumo5kE8wQAwIAgfBfNK2Tcp6hGljw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "2347046250568:26@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BcVigCayhjBjyZyAVcziMwMl7KmTvmsyROc4Y0yLSU5w"
+      }
+    }
+  ],
+  "platform": "smba"
 }
