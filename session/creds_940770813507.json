@@ -48,7 +48,24 @@
   },
   "registrationId": 25,
   "advSecretKey": "g3UfOgvZAVazbsMfMTixc7ukciVs/CXSrRUj0TuNn/s=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94770813507@s.whatsapp.net",
+        "fromMe": true,
+        "id": "5C27CC3E8F31C813E6AB8F292D2EC715"
+      },
+      "messageTimestamp": 1754799997
+    },
+    {
+      "key": {
+        "remoteJid": "94770813507@s.whatsapp.net",
+        "fromMe": true,
+        "id": "44139A751C2B487493587027878245B8"
+      },
+      "messageTimestamp": 1754799998
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 1,
@@ -59,7 +76,8 @@
   "pairingCode": "YWEFJV9W",
   "me": {
     "id": "94770813507:1@s.whatsapp.net",
-    "lid": "18915639988341:1@lid"
+    "lid": "18915639988341:1@lid",
+    "name": "RaZzMiThA ☠️"
   },
   "account": {
     "details": "CMCj1tQDEOy+4MQGGAEgACgA",
