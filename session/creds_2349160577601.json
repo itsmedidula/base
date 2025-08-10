@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "VAR34HXN",
   "me": {
-    "id": "2349160577601:12@s.whatsapp.net"
+    "id": "2349160577601:12@s.whatsapp.net",
+    "lid": "212240338837749:12@lid"
   },
   "account": {
     "details": "CKCyq+8CEOyg4sQGGAEgACgA",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CA0IAg=="
   },
-  "lastAccountSyncTimestamp": 1754828921
+  "lastAccountSyncTimestamp": 1754828921,
+  "lastPropHash": "2P1Yhf",
+  "myAppStateKeyId": "AAAAAERP"
 }
