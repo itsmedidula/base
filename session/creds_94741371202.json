@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "A1CLSA7D",
   "me": {
-    "id": "94741371202@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94741371202:2@s.whatsapp.net",
+    "name": "Bitz"
+  },
+  "account": {
+    "details": "CMTVzpQBEIrL48QGGAIgACgA",
+    "accountSignatureKey": "nb7rYplNT+sSQ7CsSrYMUxxMy6iioq0js9R0lHa8HnA=",
+    "accountSignature": "GjcgeEfffIY6xMXlQFaObHCNJxDkDcH9ZKgBdU4p1maDlfni5yuIRoUj1Xw7BaLV9meSihsRpEu/HZ+2kbl7BA==",
+    "deviceSignature": "+tmAzVINwTZEaCphPrRYfhM5/v6GmAWoK/R88UVzKcY2QIK4A1Usk5dTkg+F/vNlfBNE3ivIjEqiDKIoid2BhA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94741371202:2@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BZ2+62KZTU/rEkOwrEq2DFMcTMuooqKtI7PUdJR2vB5w"
+      }
+    }
+  ],
+  "platform": "smba"
 }
