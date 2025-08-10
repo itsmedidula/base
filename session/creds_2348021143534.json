@@ -49,8 +49,8 @@
   "registrationId": 148,
   "advSecretKey": "8bI+oS2HbDiKxJ2jQKDd/Re9rU3JDA02lYJ6tcEHjbU=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -58,7 +58,9 @@
   "registered": true,
   "pairingCode": "NY8WFRL8",
   "me": {
-    "id": "2348021143534:6@s.whatsapp.net"
+    "id": "2348021143534:6@s.whatsapp.net",
+    "lid": "146093899833411:6@lid",
+    "name": "CB_FUNDZ💸💸💲💲"
   },
   "account": {
     "details": "CNL+/LYEEMGj4sQGGAEgACgA",
@@ -83,5 +85,6 @@
     "type": "Buffer",
     "data": "CA0ICA=="
   },
-  "lastAccountSyncTimestamp": 1754829263
+  "lastAccountSyncTimestamp": 1754829263,
+  "lastPropHash": "2P1Yhf"
 }
