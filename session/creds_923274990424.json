@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "TPCHB85G",
   "me": {
-    "id": "923274990424@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923274990424:60@s.whatsapp.net",
+    "name": "Dreampeak Solutions"
+  },
+  "account": {
+    "details": "CObT/OEEEKe14sQGGAIgACgA",
+    "accountSignatureKey": "ZWv/mbwZwBkcD1HH1S06xXlouE7z+UN7GoCDPqfEXw0=",
+    "accountSignature": "6jT9c4QaR+gIDtQSm1kue33tdxHQjC2cvIUYz0Fkz8DMpzvKfFAFy76oJrqYzNRlZbbr834ULa6WJvPjEPYtDw==",
+    "deviceSignature": "PB7EnqZDsTzSn/tNSisozoBGEqbozYNZDiSVlHnPSE/vAF9jVF5Zegibo0ADcpV9DBjUl2dc7ocuPFoZ4K5dgg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "923274990424:60@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BWVr/5m8GcAZHA9Rx9UtOsV5aLhO8/lDexqAgz6nxF8N"
+      }
+    }
+  ],
+  "platform": "smba"
 }
