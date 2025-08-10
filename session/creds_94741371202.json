@@ -49,8 +49,8 @@
   "registrationId": 136,
   "advSecretKey": "djr9HpbQzfzvU/voD0VcxtcAU2RjWuTHCSZGBCAU19E=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "A1CLSA7D",
   "me": {
     "id": "94741371202:2@s.whatsapp.net",
-    "name": "Bitz"
+    "name": "Bitz",
+    "lid": "13546914070595:2@lid"
   },
   "account": {
     "details": "CMTVzpQBEIrL48QGGAIgACgA",
@@ -84,5 +85,6 @@
     "type": "Buffer",
     "data": "CBIIAg=="
   },
-  "lastAccountSyncTimestamp": 1754850710
+  "lastAccountSyncTimestamp": 1754850710,
+  "lastPropHash": "2V77qU"
 }
