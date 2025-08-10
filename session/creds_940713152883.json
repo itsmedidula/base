@@ -49,8 +49,8 @@
   "registrationId": 227,
   "advSecretKey": "1b9nDLedFf+ktupaHQmlw2X0X1h63o82J1+WlVGOQGI=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "TXMASLM3",
   "me": {
-    "id": "94713152883:15@s.whatsapp.net"
+    "id": "94713152883:15@s.whatsapp.net",
+    "lid": "116742076518516:15@lid"
   },
   "account": {
     "details": "CJ7u9toHEMHR5MQGGAEgACgA",
