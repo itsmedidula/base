@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "QKJERPYM",
   "me": {
-    "id": "94704459710@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94704459710:3@s.whatsapp.net",
+    "name": "𝒕𝒉𝒓𝒖𝒛 𝒃𝒆𝒂𝒕𝒔"
+  },
+  "account": {
+    "details": "CLWQnroDEPjC4sQGGAEgACgA",
+    "accountSignatureKey": "jNn6H+T1ScPFXXpHDIPZqTQKNC2b61lcud0CtvFcgkI=",
+    "accountSignature": "y21gdA60nyJ7d5wcXo+mEKaK8828KLL4lxJtjYqFXObAfPG0nY7O3WlQKhl1QH1S8Ck87nX+QoH/jhv5pksDDw==",
+    "deviceSignature": "u1KRmGhJRKB9kGp4ASJPqa5SFdSiRc5KnG58EbOBRl0UXbwgILzk2C2U1voQ1uVht420eiItHigsepHHwDX0DA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94704459710:3@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BYzZ+h/k9UnDxV16RwyD2ak0CjQtm+tZXLndArbxXIJC"
+      }
+    }
+  ],
+  "platform": "smba"
 }
