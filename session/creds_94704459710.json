@@ -59,7 +59,8 @@
   "pairingCode": "QKJERPYM",
   "me": {
     "id": "94704459710:3@s.whatsapp.net",
-    "name": "𝒕𝒉𝒓𝒖𝒛 𝒃𝒆𝒂𝒕𝒔"
+    "name": "𝒕𝒉𝒓𝒖𝒛 𝒃𝒆𝒂𝒕𝒔",
+    "lid": "37143481163828:3@lid"
   },
   "account": {
     "details": "CLWQnroDEPjC4sQGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAUIAg=="
   },
-  "lastAccountSyncTimestamp": 1754833286
+  "lastAccountSyncTimestamp": 1754833286,
+  "lastPropHash": "3R9Z39",
+  "myAppStateKeyId": "AAAAAP6N"
 }
