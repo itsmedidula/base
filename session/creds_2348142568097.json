@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "Z25WELGA",
   "me": {
-    "id": "2348142568097@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "2348142568097:7@s.whatsapp.net",
+    "name": "Prince Light"
+  },
+  "account": {
+    "details": "CK2EuacBEN2u4sQGGAIgACgA",
+    "accountSignatureKey": "hbgErOJHaP63b83v4cq4ucXYyUy7X71vVUwm32kkm20=",
+    "accountSignature": "hU6T1a144WRTWbTXtQyadi/aRFzCRnaWL73fZ+sG4CQR2Cd09pcNHqtamlOf+8wU+kG1y3deNk28FMYMmA7ACg==",
+    "deviceSignature": "lmxZP5hHaeroTkCzyHoc6ENBlcmK1omiOdJYEZ3dxfMi1K38b+bMW3bqNWt0cdq2YqThQSD7mh4z4wz4McULiA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "2348142568097:7@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BYW4BKziR2j+t2/N7+HKuLnF2MlMu1+9b1VMJt9pJJtt"
+      }
+    }
+  ],
+  "platform": "smba"
 }
