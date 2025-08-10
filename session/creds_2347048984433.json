@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "B656R5GR",
   "me": {
-    "id": "2347048984433@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "2347048984433:12@s.whatsapp.net",
+    "name": "Komen"
+  },
+  "account": {
+    "details": "CJfcwoIFELHt48QGGAYgACgA",
+    "accountSignatureKey": "R5ZCPv+NLsyD9CZXMjXO2tTRAS+2rPehjLCCLxghNmA=",
+    "accountSignature": "fTJumioVFY3SR6c3Sa+XuH/Tb+T3hAGMf5WSI5kCt9en0GdBNl8Atlk2uv7vMihU2YKmv6hKKhgwi5BkW/NUDQ==",
+    "deviceSignature": "HV8C69Rt6uFXuMIVILRBHHO04rr4b8oUtGMJ8DN3FY1rJS0SKJPS0LcuSwFKUmz7vcnFiQPT8eSj6fBH1EPHig=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "2347048984433:12@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BUeWQj7/jS7Mg/QmVzI1ztrU0QEvtqz3oYywgi8YITZg"
+      }
+    }
+  ],
+  "platform": "smba"
 }
