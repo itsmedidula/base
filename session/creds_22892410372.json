@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "KVCQA432",
   "me": {
-    "id": "22892410372@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "22892410372:10@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CNuc/LkHEMLR5MQGGAEgACgA",
+    "accountSignatureKey": "2Ojmxy3GNFY5xXVanTkzfuxsx2V+B2ss1TeljW0MEys=",
+    "accountSignature": "udJ5Fjyc4klWqEp8Ia/OrKEbNJO7V3rk3eaCeBU92ytfXxoJ8NhUsyKsoM/TLIPSCqYAB5HysE6Juq/XWDDrDg==",
+    "deviceSignature": "A5GO2C21qb8jSw3lXK734UY1rUtWZ7yFM81ps9k0zxGUCp4yWfsb98Z768Bu3zVLj7g4EjQcEtgJY9vyD8npiQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "22892410372:10@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bdjo5sctxjRWOcV1Wp05M37sbMdlfgdrLNU3pY1tDBMr"
+      }
+    }
+  ],
+  "platform": "android"
 }
