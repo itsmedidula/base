@@ -51,7 +51,7 @@
   "processedHistoryMessages": [],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +59,8 @@
   "pairingCode": "Q6HTLNKD",
   "me": {
     "id": "94764636789:14@s.whatsapp.net",
-    "lid": "194163123449980:14@lid"
+    "lid": "194163123449980:14@lid",
+    "name": "😶"
   },
   "account": {
     "details": "CLSnipUGEMnl38QGGAMgACgA",
