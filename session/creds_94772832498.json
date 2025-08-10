@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "GDTGTJSD",
   "me": {
-    "id": "94772832498@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94772832498:1@s.whatsapp.net",
+    "name": "PASINDU (2)-*"
+  },
+  "account": {
+    "details": "CK7nytcBELPx4MQGGAEgACgA",
+    "accountSignatureKey": "W+rNOEcQl0gzmqpygB0l9uuM3Z+PjHqTTfDkGjN/XRg=",
+    "accountSignature": "7fiFJDQo7XeMQp6ma1t6DV9rZS5BybUfN1GzuT+mgMAJWkuA9dNJaE/TWxM2oY6easlAt3eVWZlVylwQRYbrBA==",
+    "deviceSignature": "lzfbC+3SEnxXtXDiNs1D68PT1pHsotm148h9HoOWIVD4OBeUAdH1Bg0w3FiwRnX8Jozc3ZgfbCfax276xWxThw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94772832498:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BVvqzThHEJdIM5qqcoAdJfbrjN2fj4x6k03w5Bozf10Y"
+      }
+    }
+  ],
+  "platform": "smba"
 }
