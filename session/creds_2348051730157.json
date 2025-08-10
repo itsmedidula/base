@@ -48,10 +48,19 @@
   },
   "registrationId": 98,
   "advSecretKey": "g4c4rFEK5JNS6bblKI2+dAL1CDvylACycZWtXMcELA4=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "2348051730157@s.whatsapp.net",
+        "fromMe": true,
+        "id": "4DC415E5691A8106ADA7470AA585ACB3"
+      },
+      "messageTimestamp": 1754867495
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +68,8 @@
   "pairingCode": "AMQEMSKB",
   "me": {
     "id": "2348051730157:26@s.whatsapp.net",
-    "lid": "28905750667420:26@lid"
+    "lid": "28905750667420:26@lid",
+    "name": "Dante^᪲᪲᪲"
   },
   "account": {
     "details": "CITksPQHEJbO5MQGGAcgACgA",
