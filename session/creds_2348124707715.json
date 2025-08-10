@@ -49,8 +49,8 @@
   "registrationId": 102,
   "advSecretKey": "bLif7FN1ndzo6CJTCof7MVaLrJC2gHriYXe5Jn67z9c=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "DT15Y1R1",
   "me": {
     "id": "2348124707715:35@s.whatsapp.net",
-    "name": "⁖℘༒ŚȞÄĐÖŴMÄŚȚËŖV͇̿Ï͇̿P͇̿亗"
+    "name": "⁖℘༒ŚȞÄĐÖŴMÄŚȚËŖV͇̿Ï͇̿P͇̿亗",
+    "lid": "105454868934882:35@lid"
   },
   "account": {
     "details": "CMC6y8oBEM2v4sQGGAQgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CA0IAg=="
   },
-  "lastAccountSyncTimestamp": 1754830811
+  "lastAccountSyncTimestamp": 1754830811,
+  "lastPropHash": "nm3Bb",
+  "myAppStateKeyId": "AAAAAIdB"
 }
