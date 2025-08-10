@@ -60,7 +60,7 @@
   ],
   "nextPreKeyId": 33,
   "firstUnuploadedPreKeyId": 33,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
