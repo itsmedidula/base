@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "DT15Y1R1",
   "me": {
-    "id": "2348124707715@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "2348124707715:35@s.whatsapp.net",
+    "name": "⁖℘༒ŚȞÄĐÖŴMÄŚȚËŖV͇̿Ï͇̿P͇̿亗"
+  },
+  "account": {
+    "details": "CMC6y8oBEM2v4sQGGAQgACgA",
+    "accountSignatureKey": "HnGnRqVhB7xpnmABzJXrQ2reGIMssxmRarBvw2Zt6wA=",
+    "accountSignature": "qc35qZdG7bVkooQQXyONhugeLjdWfdZW7n30o6FhuqlvtQj0rHC4WSudC5j+bMcjooUV8hwF72YZVXb49qbXDw==",
+    "deviceSignature": "X81GQ54e0vqlv7jZe4yPzGFp3FZG57oVu5STF1GURKEPykYulp763lw3JWopwS0A4uHo3tomeExB1YN+SDl0gA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "2348124707715:35@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BR5xp0alYQe8aZ5gAcyV60Nq3hiDLLMZkWqwb8NmbesA"
+      }
+    }
+  ],
+  "platform": "smba"
 }
