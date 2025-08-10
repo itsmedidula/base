@@ -60,7 +60,7 @@
   ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -68,7 +68,8 @@
   "pairingCode": "N4173FQZ",
   "me": {
     "id": "2349131378785:74@s.whatsapp.net",
-    "lid": "156019602784426:74@lid"
+    "lid": "156019602784426:74@lid",
+    "name": "꧁Victoryᴹᴿ John𝕿.𝕽.𝕭꧁"
   },
   "account": {
     "details": "CKjruaICEMqW4sQGGAggACgA",
