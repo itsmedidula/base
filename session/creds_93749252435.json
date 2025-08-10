@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "LLHTBEFK",
   "me": {
-    "id": "93749252435@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "93749252435:12@s.whatsapp.net",
+    "name": "𝚀𝚄𝙴𝙴𝙽 𝚉𝚄𝙷𝙰𝙻"
+  },
+  "account": {
+    "details": "CN342uQCEJLp4MQGGAIgACgA",
+    "accountSignatureKey": "4WJb5JxA82PKwW2N9S1gPXgAR/9qH9GtDMLtDE1cD1M=",
+    "accountSignature": "9lYAGbCxFXPrB1KoMR0kadqIFOrug4eY+1aAFkm/0azRsEmDiYTjIGojzVdwGuOU2MSvM2y+hPkF/WZh3kqpAQ==",
+    "deviceSignature": "xnYu1paUg8Tkn2Jkq/m7+pdO79ktDtdtawvhkPkD88M3QfkFVHeYjxXe62WGqEH5EcA4POgnEaIP7XZxi3etiw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "93749252435:12@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BeFiW+ScQPNjysFtjfUtYD14AEf/ah/RrQzC7QxNXA9T"
+      }
+    }
+  ],
+  "platform": "smba"
 }
