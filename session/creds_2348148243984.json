@@ -84,5 +84,7 @@
     "type": "Buffer",
     "data": "CBIICA=="
   },
-  "lastAccountSyncTimestamp": 1754866431
+  "lastAccountSyncTimestamp": 1754866431,
+  "lastPropHash": "2G4Amu",
+  "myAppStateKeyId": "AAAAAJ5n"
 }
