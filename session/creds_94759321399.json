@@ -49,8 +49,8 @@
   "registrationId": 232,
   "advSecretKey": "bWPBNFluAL+b7Nj/MnqgwGT44NWweY+POtLEn0OThnw=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "XNVM7BNC",
   "me": {
     "id": "94759321399:21@s.whatsapp.net",
-    "name": "𝚃  𝙷  𝙴  𝙽  𝚄  𝙺  𝙰 - ᡣ𐭩"
+    "name": "𝚃  𝙷  𝙴  𝙽  𝚄  𝙺  𝙰 - ᡣ𐭩",
+    "lid": "197259845177541:21@lid"
   },
   "account": {
     "details": "CMevt8UCEJLf4MQGGAEgACgA",
