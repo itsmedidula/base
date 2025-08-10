@@ -58,7 +58,8 @@
   "registered": true,
   "pairingCode": "C3G9B6YC",
   "me": {
-    "id": "94713152883:14@s.whatsapp.net"
+    "id": "94713152883:14@s.whatsapp.net",
+    "lid": "116742076518516:14@lid"
   },
   "account": {
     "details": "CJ3u9toHEM/64sQGGAEgACgA",
@@ -83,5 +84,7 @@
     "type": "Buffer",
     "data": "CA0IEg=="
   },
-  "lastAccountSyncTimestamp": 1754840412
+  "lastAccountSyncTimestamp": 1754840412,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAAEe9"
 }
