@@ -76,7 +76,7 @@
   ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -110,5 +110,6 @@
     "data": "CAIIEg=="
   },
   "lastAccountSyncTimestamp": 1754799519,
-  "lastPropHash": "PWk5B"
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAABd2"
 }
