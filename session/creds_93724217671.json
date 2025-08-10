@@ -49,8 +49,8 @@
   "registrationId": 234,
   "advSecretKey": "ewaamCw9dJ0RAx6uAdZ0an2sDDrLQa4r9/LKrFUVd9o=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "HBH4XFEM",
   "me": {
     "id": "93724217671:10@s.whatsapp.net",
-    "name": ".\n\n\n\n\n\n\n                                                  \n\n\n\n\n\n𝕄ℝ〲𝕄𝕆ℍ𝔸𝕄𝕄𝔸𝔻"
+    "name": ".\n\n\n\n\n\n\n                                                  \n\n\n\n\n\n𝕄ℝ〲𝕄𝕆ℍ𝔸𝕄𝕄𝔸𝔻",
+    "lid": "217695333150934:10@lid"
   },
   "account": {
     "details": "CP+tt+MFEMfR4MQGGAQgACgA",
@@ -84,5 +85,6 @@
     "type": "Buffer",
     "data": "CAgIDQ=="
   },
-  "lastAccountSyncTimestamp": 1754802388
+  "lastAccountSyncTimestamp": 1754802388,
+  "lastPropHash": "2P1Yhf"
 }
