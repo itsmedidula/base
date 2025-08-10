@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "SC622RWD",
   "me": {
-    "id": "94765510727@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94765510727:45@s.whatsapp.net",
+    "name": "𝐌𝐎𝐍𝐈𝐘𝐎 𝐊𝐈𝐋𝐋𝐄𝐑"
+  },
+  "account": {
+    "details": "CKqEvuwFEIHn4MQGGAEgACgA",
+    "accountSignatureKey": "2GAucMKeeKGp/N3jfylBX8fCT8YcL3b//hIVxOlrwks=",
+    "accountSignature": "Qp2E4gLit83FlgUTYzKKnExMfCZC1+7IoJPaz4le1h9emyeGkPNCNmaUY5LFrTj5Pp1LsSqYd3pesMqKuOf+CA==",
+    "deviceSignature": "YdR2TlZQGyGI94N0kw9S8RCDwOU/IDsL3IZWOx/HNKlYb/ZT99o/jWvbogM5PAHXAO9GVQ7vwBsqfnARJ6K3jQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94765510727:45@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BdhgLnDCnnihqfzd438pQV/Hwk/GHC92//4SFcTpa8JL"
+      }
+    }
+  ],
+  "platform": "smba"
 }
