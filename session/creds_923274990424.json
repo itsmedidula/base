@@ -59,7 +59,8 @@
   "pairingCode": "TPCHB85G",
   "me": {
     "id": "923274990424:60@s.whatsapp.net",
-    "name": "Dreampeak Solutions"
+    "name": "Dreampeak Solutions",
+    "lid": "224459587854374:60@lid"
   },
   "account": {
     "details": "CObT/OEEEKe14sQGGAIgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CBIIDQ=="
   },
-  "lastAccountSyncTimestamp": 1754831541
+  "lastAccountSyncTimestamp": 1754831541,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAAInW"
 }
