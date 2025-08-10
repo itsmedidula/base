@@ -60,7 +60,7 @@
   ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -68,7 +68,8 @@
   "pairingCode": "HPB3MJQH",
   "me": {
     "id": "258869936425:7@s.whatsapp.net",
-    "lid": "187312566726785:7@lid"
+    "lid": "187312566726785:7@lid",
+    "name": "Bountong💪🦾🤖"
   },
   "account": {
     "details": "CKLLlboGEJH04MQGGAMgACgA",
