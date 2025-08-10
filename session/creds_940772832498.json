@@ -48,7 +48,16 @@
   },
   "registrationId": 247,
   "advSecretKey": "PI7E1aej6B/68PPRUfQ4SEST+1AnrNs6h4p6dQEW+58=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94772832498@s.whatsapp.net",
+        "fromMe": true,
+        "id": "1E31CC1EEF91C85B50DA3391F498E2F6"
+      },
+      "messageTimestamp": 1754799522
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
@@ -58,7 +67,8 @@
   "registered": true,
   "pairingCode": "4HXHM4JM",
   "me": {
-    "id": "94772832498:3@s.whatsapp.net"
+    "id": "94772832498:3@s.whatsapp.net",
+    "lid": "218627223605494:3@lid"
   },
   "account": {
     "details": "CM+m6uECEJK74MQGGAEgACgA",
@@ -83,5 +93,6 @@
     "type": "Buffer",
     "data": "CAIIEg=="
   },
-  "lastAccountSyncTimestamp": 1754799519
+  "lastAccountSyncTimestamp": 1754799519,
+  "lastPropHash": "PWk5B"
 }
