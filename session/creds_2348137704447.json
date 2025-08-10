@@ -51,7 +51,7 @@
   "processedHistoryMessages": [],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +59,8 @@
   "pairingCode": "WB14WBHP",
   "me": {
     "id": "2348137704447:19@s.whatsapp.net",
-    "lid": "235772263305269:19@lid"
+    "lid": "235772263305269:19@lid",
+    "name": "pboluwatife18"
   },
   "account": {
     "details": "COrarMwBEKO14sQGGAMgACgA",
