@@ -49,8 +49,8 @@
   "registrationId": 209,
   "advSecretKey": "1S55D5MmBNhjWW+UIhEjkhfDEZRtMq+O5Bb8yYMMSBk=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "SC622RWD",
   "me": {
     "id": "94765510727:45@s.whatsapp.net",
-    "name": "𝐌𝐎𝐍𝐈𝐘𝐎 𝐊𝐈𝐋𝐋𝐄𝐑"
+    "name": "𝐌𝐎𝐍𝐈𝐘𝐎 𝐊𝐈𝐋𝐋𝐄𝐑",
+    "lid": "61461619544273:45@lid"
   },
   "account": {
     "details": "CKqEvuwFEIHn4MQGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CBIIDQ=="
   },
-  "lastAccountSyncTimestamp": 1754805135
+  "lastAccountSyncTimestamp": 1754805135,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAAK4Y"
 }
