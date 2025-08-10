@@ -48,10 +48,19 @@
   },
   "registrationId": 83,
   "advSecretKey": "VWmsZMaoAkenIAgYMaK9svOgmyOQcwRaEsGgPsOeV5M=",
-  "processedHistoryMessages": [],
-  "nextPreKeyId": 32,
-  "firstUnuploadedPreKeyId": 32,
-  "accountSyncCounter": 0,
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "233502034065@s.whatsapp.net",
+        "fromMe": true,
+        "id": "26D7432EF37194C28E8F79C5D4FAE418"
+      },
+      "messageTimestamp": 1754838082
+    }
+  ],
+  "nextPreKeyId": 33,
+  "firstUnuploadedPreKeyId": 33,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +68,8 @@
   "pairingCode": "ZLBXF34X",
   "me": {
     "id": "233502034065:57@s.whatsapp.net",
-    "lid": "247730056200363:57@lid"
+    "lid": "247730056200363:57@lid",
+    "name": "Buchi Bowy"
   },
   "account": {
     "details": "CLWop0sQqOjixAYYAiAAKAA=",
