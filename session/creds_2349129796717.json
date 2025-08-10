@@ -59,7 +59,8 @@
   "pairingCode": "FR23QPLF",
   "me": {
     "id": "2349129796717:8@s.whatsapp.net",
-    "name": "IMB GADGETS AND TECH"
+    "name": "IMB GADGETS AND TECH",
+    "lid": "136430105927870:8@lid"
   },
   "account": {
     "details": "CLGS49oDEJHS5MQGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAIIBQ=="
   },
-  "lastAccountSyncTimestamp": 1754867998
+  "lastAccountSyncTimestamp": 1754867998,
+  "lastPropHash": "nm3Bb",
+  "myAppStateKeyId": "AAAAAC3l"
 }
