@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "RHP77MHA",
   "me": {
-    "id": "94775755189@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94775755189:33@s.whatsapp.net"
+  },
+  "account": {
+    "details": "CMfIoI8CEPDF4cQGGBIgACgA",
+    "accountSignatureKey": "XegXLd91M0p7zwwwL0rlU2I7du5OygqMy5xGwSoZxk4=",
+    "accountSignature": "3HqY9QyGLZunOtI2gbktqUyGkrWbBomNvNR5+cpUq03KwEGlEdfx1q7UfAD1b6Cg6+oQQKmrsEys/WlOp+TlDw==",
+    "deviceSignature": "wBajBsxF+g0J853z/UpgZN4CdxhFzcz+j3S7s5Z6+q0mCOLDWPyUaWmBBb+b3kcRc/vtEKOP4SbTE2uKqNV4iA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94775755189:33@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BV3oFy3fdTNKe88MMC9K5VNiO3buTsoKjMucRsEqGcZO"
+      }
+    }
+  ],
+  "platform": "android"
 }
