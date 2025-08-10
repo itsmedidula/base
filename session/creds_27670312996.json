@@ -84,5 +84,7 @@
     "type": "Buffer",
     "data": "CAUICA=="
   },
-  "lastAccountSyncTimestamp": 1754851699
+  "lastAccountSyncTimestamp": 1754851699,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAACm9"
 }
