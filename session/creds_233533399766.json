@@ -70,7 +70,11 @@
   "firstUnuploadedPreKeyId": 363,
   "accountSyncCounter": 1,
   "accountSettings": {
-    "unarchiveChats": false
+    "unarchiveChats": false,
+    "defaultDisappearingMode": {
+      "ephemeralExpiration": 86400,
+      "ephemeralSettingTimestamp": 1754873114
+    }
   },
   "registered": true,
   "pairingCode": "8Y2V1FQS",
