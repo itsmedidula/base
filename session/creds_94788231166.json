@@ -51,7 +51,7 @@
   "processedHistoryMessages": [],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -59,7 +59,8 @@
   "pairingCode": "X9D4QF68",
   "me": {
     "id": "94788231166:87@s.whatsapp.net",
-    "lid": "70979132891332:87@lid"
+    "lid": "70979132891332:87@lid",
+    "name": "《━━━◈ROFFICIAL♡V.I.P◈━━━》"
   },
   "account": {
     "details": "CKX+h50BEJLg5cQGGAIgACgA",
