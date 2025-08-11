@@ -59,7 +59,8 @@
   "pairingCode": "JM73XYAD",
   "me": {
     "id": "2348060946867:12@s.whatsapp.net",
-    "name": "ᴹᴿ Crow Of Midnight"
+    "name": "ᴹᴿ Crow Of Midnight",
+    "lid": "78117519528027:12@lid"
   },
   "account": {
     "details": "CN2Z57QHEIGK58QGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAgIEg=="
   },
-  "lastAccountSyncTimestamp": 1754907919
+  "lastAccountSyncTimestamp": 1754907919,
+  "lastPropHash": "3gPUJk",
+  "myAppStateKeyId": "AAAAAI1f"
 }
