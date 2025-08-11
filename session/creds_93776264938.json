@@ -58,7 +58,25 @@
   "registered": true,
   "pairingCode": "TTVL8FA5",
   "me": {
-    "id": "93776264938@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "93776264938:1@s.whatsapp.net"
+  },
+  "account": {
+    "details": "COHA+o0CEOba5sQGGAEgACgA",
+    "accountSignatureKey": "J0Uk+nU0fZq+cukBGk5LAOJCbi+gYRWWi/RG4xrOsFk=",
+    "accountSignature": "fdJiHm4dX6KFCuXESZUM+wjdAW4wwD5CjqgzQZADpu1RkihHQsAoidWhLceGUSOdLjoqjo18diIp9BQUSh+rAQ==",
+    "deviceSignature": "wyryFpXtmLigRnDXilsWSj8yUAHH7bqWL5ts98xbYb1bD8FwF7cDf/ibHE7VlDdlRear8KdHsEqi42WlWbwDjw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "93776264938:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BSdFJPp1NH2avnLpARpOSwDiQm4voGEVlov0RuMazrBZ"
+      }
+    }
+  ],
+  "platform": "android"
 }
