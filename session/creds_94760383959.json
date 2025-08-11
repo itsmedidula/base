@@ -59,7 +59,8 @@
   "pairingCode": "QL2YVMX9",
   "me": {
     "id": "94760383959:52@s.whatsapp.net",
-    "name": "𝙆𝘼𝙑𝙄 𝙀𝙓𝙀"
+    "name": "𝙆𝘼𝙑𝙄 𝙀𝙓𝙀",
+    "lid": "152347221225657:52@lid"
   },
   "account": {
     "details": "CPWhypcBEL7S5sQGGAUgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CBIICA=="
   },
-  "lastAccountSyncTimestamp": 1754900812
+  "lastAccountSyncTimestamp": 1754900812,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAAD0l"
 }
