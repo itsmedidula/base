@@ -59,7 +59,8 @@
   "pairingCode": "H3FZ5154",
   "me": {
     "id": "923439458696:9@s.whatsapp.net",
-    "name": "user"
+    "name": "user",
+    "lid": "220413980348551:9@lid"
   },
   "account": {
     "details": "CL/Pt/MBEMfK5sQGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CBIIBQ=="
   },
-  "lastAccountSyncTimestamp": 1754899797
+  "lastAccountSyncTimestamp": 1754899797,
+  "lastPropHash": "1K4hH4",
+  "myAppStateKeyId": "AAAAAMk3"
 }
