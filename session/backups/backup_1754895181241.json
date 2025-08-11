@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-08-11T06:53:01.241Z",
+  "activeSessions": [
+    "94788231166"
+  ],
+  "sessionHealth": {
+    "947882311666": "connecting",
+    "94788231166": "active",
+    "930724217671": "connected",
+    "09167703554": "reconnecting"
+  },
+  "reconnectionAttempts": {},
+  "disconnectionTimes": {
+    "947882311666": 1754895025058,
+    "09167703554": 1754895178360
+  }
+}
