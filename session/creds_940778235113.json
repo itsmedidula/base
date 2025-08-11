@@ -49,8 +49,8 @@
   "registrationId": 45,
   "advSecretKey": "mtDjFeyhY8Mphn1GSc3w0nEppew7ElnVJ8WyHERlw/s=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -59,7 +59,8 @@
   "pairingCode": "AMP11DRR",
   "me": {
     "id": "94778235113:12@s.whatsapp.net",
-    "name": "nisha"
+    "name": "nisha",
+    "lid": "97178567610481:12@lid"
   },
   "account": {
     "details": "CJi3sS0Q2bzlxAYYAiAAKAA=",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CBIIBQ=="
   },
-  "lastAccountSyncTimestamp": 1754881638
+  "lastAccountSyncTimestamp": 1754881638,
+  "lastPropHash": "PWk5B",
+  "myAppStateKeyId": "AAAAAJHe"
 }
