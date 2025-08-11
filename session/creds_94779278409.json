@@ -60,7 +60,7 @@
   ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -68,7 +68,8 @@
   "pairingCode": "QLL2MH8Y",
   "me": {
     "id": "94779278409:38@s.whatsapp.net",
-    "lid": "165910795014256:38@lid"
+    "lid": "165910795014256:38@lid",
+    "name": "Pasindu harshana"
   },
   "account": {
     "details": "CLCSwPEBEPSr5cQGGAIgACgA",
