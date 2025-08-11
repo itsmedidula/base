@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "JM73XYAD",
   "me": {
-    "id": "2348060946867@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "2348060946867:12@s.whatsapp.net",
+    "name": "ᴹᴿ Crow Of Midnight"
+  },
+  "account": {
+    "details": "CN2Z57QHEIGK58QGGAEgACgA",
+    "accountSignatureKey": "FOvzxnqQ+lg/unxaau2wlTqfd935e71PGhZW+GyYVyI=",
+    "accountSignature": "TPohhsLJoNVSbmcadFMK26jKomPNS0zo2zxKUV5e/6/J8MroP22rvk6A+vT9SZ7SLxJ21FORUuUbdM1fLEfjBQ==",
+    "deviceSignature": "BLFQbtT1HIAt8rZ9SVmgHbtF73oCt5Q7hoWjZDOyQOJQZnbK/LSPnNRdXoWyc3ADhJFK/j3kngTTN6555HeNgQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "2348060946867:12@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BRTr88Z6kPpYP7p8WmrtsJU6n3fd+Xu9TxoWVvhsmFci"
+      }
+    }
+  ],
+  "platform": "smba"
 }
