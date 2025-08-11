@@ -49,8 +49,8 @@
   "registrationId": 149,
   "advSecretKey": "vKW7BoT0zSyyodZA0qzK5qdlp0ys6PdBxh9GVEwuQX8=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
