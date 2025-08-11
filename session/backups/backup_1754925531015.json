@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-08-11T15:18:51.015Z",
+  "activeSessions": [
+    "2347025113015"
+  ],
+  "sessionHealth": {
+    "2347025113015": "active",
+    "94742139074": "invalid"
+  },
+  "reconnectionAttempts": {},
+  "disconnectionTimes": {
+    "2347025113015": 1754922522577,
+    "94742139074": 1754922944450
+  }
+}
