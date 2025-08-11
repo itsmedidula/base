@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "Q6VY2F8G",
   "me": {
-    "id": "94725185364@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94725185364:9@s.whatsapp.net",
+    "name": "𝐌𝐫.𝐙𝐮𝐝𝐝𝐚 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥"
+  },
+  "account": {
+    "details": "CO6h4O0GEIGw6MQGGAMgACgA",
+    "accountSignatureKey": "Yd9aJPWH9Eh0xKA6fGu82ivXVMDzr+yF2J6JrrR1yCM=",
+    "accountSignature": "RQ15EgptmidkioLpotBAoDWksYGVQB2+UYx7PLItaMgu5nDdd1+gWCU+w5iT4H+lRxCzzQXaTLIxH3TLCbPOAw==",
+    "deviceSignature": "mW+94Q7iQyVWsrsXmDuHIEfWbv5Kq0hSDh7EDTC1jP7WGNnewI5hjtCNbRdFGrxASE1DnI3czLxr9CWQab+FgA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94725185364:9@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BWHfWiT1h/RIdMSgOnxrvNor11TA86/shdieia60dcgj"
+      }
+    }
+  ],
+  "platform": "smba"
 }
