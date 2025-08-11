@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "H3FZ5154",
   "me": {
-    "id": "923439458696@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923439458696:9@s.whatsapp.net",
+    "name": "user"
+  },
+  "account": {
+    "details": "CL/Pt/MBEMfK5sQGGAEgACgA",
+    "accountSignatureKey": "qcgD3Q1IPkeTJag3p6RckSEL9xrHMF4JBf2s/+qGQzs=",
+    "accountSignature": "CMv+rxPGHdbBdQFlXGRMyGgBMkar5PPOaBSuhdwxB32aGtMmZD88S57RBq5+l3E0kwAkFTIlEIWzN6gqZKdDAw==",
+    "deviceSignature": "HXjk3kfYJw+lQEwA3MmE+CKrzh4lI7rv5uUYSJhw02+slhbuYBx3kQlBc2p3ORT4+5XoiTgiOlJJRVgRIT6fiQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "923439458696:9@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BanIA90NSD5HkyWoN6ekXJEhC/caxzBeCQX9rP/qhkM7"
+      }
+    }
+  ],
+  "platform": "smba"
 }
