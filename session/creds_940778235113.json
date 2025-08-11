@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "AMP11DRR",
   "me": {
-    "id": "940778235113@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94778235113:12@s.whatsapp.net",
+    "name": "nisha"
+  },
+  "account": {
+    "details": "CJi3sS0Q2bzlxAYYAiAAKAA=",
+    "accountSignatureKey": "6MuZPdQGZQHYGJpK6/VG72Gb4nd+HHosKlSiwslRLyI=",
+    "accountSignature": "D1ywQdZrAhF/SuPLVoH3JOP+CAozDvfaONs537j5uzFeW1zEhSgcZUN6G/lenGw1qIpZ8ZKMeTsFhvLEWwEZAw==",
+    "deviceSignature": "mu+kMG4tUlXJYhN2QJID9DmW9K+KTI3MkyRnGpiAxwBo38OmmtoG8AwbwLNZlQDuUa/Y9f0R5YxJW8bm1Sy3iQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94778235113:12@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BejLmT3UBmUB2BiaSuv1Ru9hm+J3fhx6LCpUosLJUS8i"
+      }
+    }
+  ],
+  "platform": "smba"
 }
