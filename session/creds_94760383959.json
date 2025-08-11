@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "QL2YVMX9",
   "me": {
-    "id": "94760383959@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "94760383959:52@s.whatsapp.net",
+    "name": "𝙆𝘼𝙑𝙄 𝙀𝙓𝙀"
+  },
+  "account": {
+    "details": "CPWhypcBEL7S5sQGGAUgACgA",
+    "accountSignatureKey": "+jUdCpVOddVK6hvjCFM5RU2kst7HCvd8eFOnVUhgITc=",
+    "accountSignature": "YVUZrEq22Is73/UszpkiiZ//SrGoQi7rHz/UxRJl4G9G4DkAX/gIpYAlmUbobBQCw8hdB4ue+i2pxtp3RhkWDQ==",
+    "deviceSignature": "Ab5LJYlSqktloMTeplKAP9G9TobkAE9UVWTGT5ihiu4qTxyCofdZKnb7v52VIrhF46YKsUacTek/W30AVFlXDQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94760383959:52@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bfo1HQqVTnXVSuob4whTOUVNpLLexwr3fHhTp1VIYCE3"
+      }
+    }
+  ],
+  "platform": "smba"
 }
