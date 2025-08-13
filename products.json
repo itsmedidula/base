@@ -1,13 +1,5 @@
 [
   {
-    "id": 1704067200000,
-    "image": "https://example.com/product1.jpg",
-    "title": "Premium WordPress Theme",
-    "description": "Professional WordPress theme with modern design and full customization options",
-    "price": 5000,
-    "createdAt": "2024-01-01T00:00:00.000Z"
-  },
-  {
     "id": 1704067201000,
     "image": "https://example.com/product2.jpg",
     "title": "Social Media Marketing Package",
