@@ -14,5 +14,12 @@
     "description": "Complete social media marketing service for 1 month including content creation",
     "price": 15000,
     "createdAt": "2024-01-01T00:00:01.000Z"
+  },
+  {
+    "id": 1755070047015,
+    "image": "https://via.placeholder.com/300x200/6366f1/ffffff?text=No+Image",
+    "title": "Didula MD MINI Base",
+    "description": "Free",
+    "price": 2000
   }
 ]
